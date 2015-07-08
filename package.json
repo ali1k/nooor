@@ -1,0 +1,31 @@
+{
+  "name": "tanzil",
+  "version": "1.0.0",
+  "description": "a repository for structured Persian and Arabic text",
+  "main": "convertSurasToRDF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali1k/tanzil.git"
+  },
+  "keywords": [
+    "tanzil",
+    "Persian",
+    "Arabic",
+    "RDF",
+    "Text",
+    "Structured"
+  ],
+  "author": "Ali Khalili <hyperir@gmail.com> (http://ali1k.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali1k/tanzil/issues"
+  },
+  "homepage": "https://github.com/ali1k/tanzil#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "^3.10.0"
+  }
+}
