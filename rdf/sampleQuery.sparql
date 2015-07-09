@@ -1,0 +1,15 @@
+SELECT ?sura ?aya ?translation ?topic ?topic2 ?desc
+WHERE {
+?su <http://purl.org/dc/terms/hasPart> ?s .
+?su rdfs:label ?sura .
+ ?s  a <http://tanzil.ld-r.org/vocab/Aya> .
+?s <http://rdfs.org/sioc/ns#content> ?aya .
+?s <http://purl.org/linguistics/gold/translation> ?translation .
+?s <http://rdfs.org/sioc/ns#topic> ?t .
+?t rdfs:label ?topic2 .
+?t <http://purl.org/dc/terms/description> ?desc .
+?tp a <http://tanzil.ld-r.org/vocab/Topic> .
+?tp <http://purl.org/dc/terms/hasPart> ?t .
+?tp rdfs:label ?topic .
+FILTER(langMatches(lang(?sura), "AR"))
+} LIMIT 1000
