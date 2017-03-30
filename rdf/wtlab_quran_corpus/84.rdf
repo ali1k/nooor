@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/84.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_انشقاق"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Inshiqaq"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Inshiqaq"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/84.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s84.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/084.wma"/>
+	<dbpprop:suraNumber>84</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">118</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Inshiqaaq Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Inshiqaaq</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الإنشقاق</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Inshiqāq (Arabic: سورة الانشقاق‎) (The Sundering, Splitting Open) is the 84th sura of the Qur'an with 25 ayat. It mentions details of the Day of Judgement when everyone will be questioned about their deeds in this world.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheSplittingOpen</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>دو شقه شدن و شكاف برداشتن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>باز هم از علائم ظهور قيامت، در هم ريختن و پاره شدن نظام جهان بالا بيان شده است (آيه 1) آنچنانكه در سوره‏هاى تكوير و انفطار بيان شد. اين سوره هم مانند سوره‏هاى كوچك مكى، تكيه‏اش روى مبدء و معاد است و سير انسان را به سوى خدا و سرنوشت ابدى‏اش در آخرت، و حساب و كتاب، بيان مى‏كند. بعد از سوره انفطار در مكه نازل شده و 25 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>589</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/589.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>1</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>25</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Mutaffifin</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Burooj</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/83.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85.rdf"/>
+	<wtlabprop:order>83</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5885</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84/25.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

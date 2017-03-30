@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/5.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_مائده"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Ma'ida"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Ma'ida"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/5.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf2-s5.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/005.wma"/>
+	<dbpprop:suraNumber>5</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">6,7</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">22,23,24,25,26</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Maaida Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Maaida</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>المائدة</dbpprop:arabicName>
+	<dbpprop:abstract>Sura Al-Ma'ida (Arabic: سورة المائدة‎, Sūratu al-Mā'idah, "The Table" or "The Table Spread with Food") is the fifth chapter of the Qur'an, with 120 verses. It is a Madinan sura. The sura's main topics are Isa's (Jesus') and Moses' missions, as well as the claim that their messages are distorted by non-believing Jews and Christians.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheTable</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>سفره و خوان غذا</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 112 تا 115 حواريون و پيروان عيسى(ع) از او درخواست مى‏كنند كه براى اطمينان بيشتر، خداوند از آسمان، خوان غذا فرود آورد. و عيسى از خداوند مى‏خواهد كه: «پروردگارا! براى ما غذائى از آسمان نازل كن تا براى اول و آخر ما عيد باشد و نشانه‏اى از تو ... ». نام ديگر سوره، «عقود» است. اين سوره داراى 120 آيه است و پس از هجرت، در مدينه جزء آخرين سوره‏هائى است كه نازل شده و عمدتا تاكيد آياتش بر بناى اجتماعى اسلامى، بر پايه بينش توحيدى و مبارزه با خرافات و شركها و تاسيس روابط صحيح اجتماعى و احكام حلال و حرام مى‏باشد. حرمت‏شراب و قمار، در آيه 90 آمد است. و از اين رهگذر، مسائلى از عهد و پيمان و حدود و قصاص و داستهائى از هابيل و قابيل و از بنى اسرائيل نيز بيان شده است، كه در زمينه مسائل حقوقى و جزائى مى‏باشد. مطالب مربوط به غدير خم در آيات 3 و 67 بيان شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>106</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/106.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>120</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>An-Nisaa</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-An'aam</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/4.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/6.rdf"/>
+	<wtlabprop:order>112</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>16</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>670</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/30.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/31.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/32.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/33.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/34.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/35.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/36.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/37.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/38.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/39.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/40.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/41.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/42.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/43.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/44.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/45.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/46.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/47.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/48.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/49.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/50.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/51.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/52.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/53.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/54.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/55.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/56.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/57.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/58.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/59.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/60.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/61.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/62.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/63.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/64.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/65.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/66.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/67.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/68.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/69.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/70.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/71.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/72.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/73.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/74.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/75.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/76.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/77.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/78.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/79.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/80.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/81.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/82.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/83.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/84.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/85.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/86.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/87.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/88.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/89.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/90.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/91.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/92.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/93.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/94.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/95.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/96.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/97.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/98.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/99.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/100.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/101.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/102.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/103.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/104.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/105.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/106.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/107.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/108.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/109.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/110.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/111.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/112.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/113.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/114.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/115.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/116.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/117.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/118.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/119.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/5/120.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

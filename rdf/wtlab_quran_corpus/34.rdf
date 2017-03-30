@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/34.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_سبأ"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Saba_(sura)"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Saba_(sura)"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/34.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf7-s34.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/034.wma"/>
+	<dbpprop:suraNumber>34</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">22</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">86,87</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Saba Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Saba</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>سبإ</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Saba' (Arabic: سورة سبأ‎) (Saba, Sheba) is the 34th sura of the Qur'an with 54 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Sheba</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>سبا</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>نام قومى است كه همزمان با سليمان مى‏زيستند و حاكمشان يك زن (بلقيس) بود. از آيه 15 به بعد بخشى از داستان آنان را در رابطه با سليمان بيان مى‏كند و نيز داستان داود را نقل مى‏نمايد. در اين سوره آياتى هم از توحيد و رسالت و آخرت (اين سه پايه دعوت همه انبياء) آمده است. رسالت جهانى پيامبر اسلام در آيه 28 آمده، و در كل، حمايت از رسول اللّه در دعوت الهى‏اش مى‏باشد. هشتاد و سومين سوره‏اى است كه در مكه و قبل از هجرت نازل شده و 54 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>428</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/428.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>54</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Ahzaab</dbpprop:previousSura>	
+	<dbpprop:nextSura>Faatir</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/33.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/35.rdf"/>
+	<wtlabprop:order>58</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>6</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>3607</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/30.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/31.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/32.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/33.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/34.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/35.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/36.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/37.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/38.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/39.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/40.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/41.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/42.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/43.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/44.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/45.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/46.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/47.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/48.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/49.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/50.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/51.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/52.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/53.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/34/54.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

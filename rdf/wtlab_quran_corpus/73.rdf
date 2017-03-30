@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/73.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_مزمل"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Muzzammil"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Muzzammil"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/73.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s73.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/073.wma"/>
+	<dbpprop:suraNumber>73</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">29</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">115</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Muzzammil Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Muzzammil</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>المزمل</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Muzzammil (Arabic: سورة المزمل‎) (The Enshrouded One, Bundled Up) is the 73rd sura of the Qur'an with 20 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheEnshroudedOne</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>گليم به خود پيچيده</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>آيه اول را كه مى‏خوانيم، با اين تعبير به پيامبر خطاب شده، آن هنگام كه در اول بعثت، مشركان در «دار الندوة‏» دعوتش را نپذيرفتند و در فكر توطئه بر ضد او بودند. پيامبر غمگين و آزرده به خانه رفت و خوابيد. اما سروش خدائى اينگونه نوازشش داد و او را به «برخاستن‏» و عبادت شبانه، و كمك گيرى از نيايش و تلاوت قرآن، و مقاومت در برابر حرفها و مخالفتهايشان دعوت كرد، و از آن حضرت، در برابر برخوردهاى سرد و بى مهرى‏هاى اهل مكه، حمايت نمود در آيه آخر، دستورى مبنى بر نيايش شبانه و تلاوت قرآن به پيامبر مى‏دهد. اين سوره با 20 آيه در مكه نازل شده است. (اوائل بعثت).</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>574</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/574.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>20</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Jinn</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Muddaththir</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/74.rdf"/>
+	<wtlabprop:order>3</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5476</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73/20.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

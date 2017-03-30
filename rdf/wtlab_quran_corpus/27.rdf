@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/27.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_نمل"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/An-Naml"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/An-Naml"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/27.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf6-s27.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/027.wma"/>
+	<dbpprop:suraNumber>27</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">19,20</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">76,77</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">An-Naml Sura</rdfs:label>
+	<dbpprop:nameOfSurah>An-Naml</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>النمل</dbpprop:arabicName>
+	<dbpprop:abstract>Surah Al-Naml (Arabic: سورة النمل‎) (The Ant, The Ants) is the 27th sura of the Qur'an with 93 ayat.The surah tells the stories of various prophets, such as Moses, Solomon and Salih, who preached tawhid. The story of Solomon is more detailed. It is said that Solomon had converted Bilqis to the true religion after a hoopoe reported to him that she is a Sun-worshipping queen. The miracles of Moses, described in the Bible, are also mentioned. The name of the surah is taken from the ants whose conversations were understood by Solomon.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheAnt</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>مورچه</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 18 عبور سليمان را همراه با سپاه جن و انس و پرندگان كه مسخر فرمان او بودند، از وادى مورچگان، بيان مى‏كند و توجه مردم را به عظمت آفرينش در مورچه معطوف مى‏كند. بخاطر داستان سليمان، اين سوره به نام «سليمان‏» هم نقل شده است. در اين سوره هم بخاطر تدبر و عبرت از تاريخ، سرگذشت تعدادى از انبياء و موضعگيرى مشركين مكه و مشركان سابق را در امت‏هاى گذشته به ياد مى‏آورد و فرجام كار مؤمنان و مخالفان را تصوير مى‏كند. اين سوره كه 93 آيه دارد، قبل از هجرت، در سال هشتم بعثت در مكه نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>377</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/377.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>1</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>93</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Ash-Shu'araa</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Qasas</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/26.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/28.rdf"/>
+	<wtlabprop:order>48</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>7</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>3160</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/30.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/31.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/32.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/33.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/34.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/35.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/36.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/37.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/38.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/39.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/40.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/41.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/42.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/43.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/44.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/45.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/46.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/47.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/48.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/49.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/50.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/51.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/52.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/53.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/54.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/55.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/56.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/57.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/58.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/59.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/60.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/61.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/62.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/63.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/64.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/65.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/66.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/67.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/68.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/69.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/70.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/71.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/72.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/73.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/74.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/75.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/76.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/77.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/78.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/79.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/80.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/81.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/82.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/83.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/84.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/85.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/86.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/87.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/88.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/89.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/90.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/91.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/92.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/27/93.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

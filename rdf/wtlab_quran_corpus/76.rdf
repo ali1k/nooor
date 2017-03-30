@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/76.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_انسان"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Insan"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Insan"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/76.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s76.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/076.wma"/>
+	<dbpprop:suraNumber>76</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">29</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">116</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Insaan Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Insaan</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الانسان</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Insān (Arabic: سورة الإنسان‎) (Human) or Sūrat al-Dahr (Arabic: سورة الدَّهْرِ‎) is the 76th sura of the Qur'an with 31 ayat (verses). The name means soul or human.76:01 Has there not been a period in Time, when the Man was not even that thing worthy of remembering/mention? [76:01]76:02 It is a fact that We have created the man, living humanity, from a single sperm having characteristic/consisting/composition of gathering/concentration/mixture. Purposely, We keep subjecting the Man to exposure trials. Thereby, We made him capable of listening and vision. [76:02][For detailed study of reference of Ears and Listening see 1-Surat Fateh "Word by Word Analysis"]</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>Man</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>روزگار، دوران</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه اول اشاره به «روزگارى‏» مى‏كند كه بر «انسان‏» گذشته، و او چيزى نبود كه ياد شود. از آن پس اشاره به خلقت انسان، و قرار گرفتن او بر سر دو راهى «شكر» و «كفران‏» مى‏نمايد. از آنچا كه محور اين سوره، انسان است و عملش و اخلاصش و ايثارش و عاقبت كارش در قيامت و نعمت‏هاى خوب براى نيكان، نام ديگر اين سوره «انسان‏» است. اين سوره به نام «هل اتى‏» هم مشهور است. چونكه با اين كلمه آغاز شده است. اين سوره در مدينه نازل شده و بنا به روايات، در ستايش از على و فاطمه(ع) است كه بخاطر نذرشان، سه روز روزه گرفتند و هنگام افطار، غذاى ساده خويش را به مسكين و يتيم و اسير، ايثار كردند (آيه 8) و خود با آب افطار نمودند. در آيات بعد، از نعمتهاى خداوند براى اهل بهشت، و پاداش نيكيها در آخرت، ياد شده و فرمان صبر و مقاومت داده است. داراى 31 آيه است و بعد از «الرحمن‏» نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>578</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/578.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>31</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Qiyaama</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Mursalaat</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/75.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/77.rdf"/>
+	<wtlabprop:order>98</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5592</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/30.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/76/31.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

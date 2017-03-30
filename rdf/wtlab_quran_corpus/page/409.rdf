@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/page/409.rdf"> 
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Page"/>
+	<wtlabprop:page>409</wtlabprop:page>
+	<wtlabprop:previouspage rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/408.rdf"/>
+	<wtlabprop:nextpage rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/410.rdf"/>	
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/42.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/43.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/44.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/45.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/46.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/47.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/48.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/49.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30/50.rdf"/>		
+		</rdf:Bag>	
+	</wtlabprop:ayah>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/409.html"/>
+</rdf:Description> 
+</rdf:RDF> 

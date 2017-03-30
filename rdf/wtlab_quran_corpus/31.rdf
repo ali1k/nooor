@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/31.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_لقمان"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Luqman"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Luqman_(sura)"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/31.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf7-s31.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/031.wma"/>
+	<dbpprop:suraNumber>31</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">21</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">82,83</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Luqman Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Luqman</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>لقمان</dbpprop:arabicName>
+	<dbpprop:abstract>Luqman (also known as Luqman The Wise, Luqmaan, Lukman, and Luqman al-Hakeem Arabic: لقمان‎) was a wise man for whom Surat Luqman (Arabic: سورة لقمان‎), the thirty-first sura (chapter) of the Qur'an, was named. Luqman (c. 1100 BC) is believed to be from Africa [1][2]. There are many stories about Luqman in Arabic and Turkish literature and the primary historical sources are the Tafsir ibn Kathir and Stories of the Qur'an by Ibn Kathir. The Qur'an does not state whether or not Luqman was a prophet, but some people believe him to be a prophet and thus write Alayhis salaam (A.S.) with his name.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Luqman</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>لقمان</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>سوره به نام لقمان حكيم است و در آيات 12 تا 20 موعظه‏هاى حكيمانه‏اى را از لقمان به پسرش بيان كرده است، كه درباره خدا و دين و برخورد انسانى با مردم و ميانه روى در رفتار است. در مجموع، اين سوره، پيام توحيد و حكمت و معرفت و معاد را بيان مى‏كند و فطرت بشرى آدميان را مورد خطاب قرار مى‏دهد تا از طريق توجه به نعمتهاى الهى، به شناخت و اطاعت او گردن نهاده و به سعادت ابدى برسد. در مكه و نزديكيهاى هجرت نازل شده است و داراى 34 آيه مى‏باشد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>411</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/411.rdf"/> 
+	<wtlabprop:harfEMukatta>Yes</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>34</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Ar-Room</dbpprop:previousSura>	
+	<dbpprop:nextSura>As-Sajda</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/30.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/32.rdf"/>
+	<wtlabprop:order>57</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>3</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>3470</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/30.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/31.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/32.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/33.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/31/34.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/111.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_مسد"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Masad"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Masadd"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/111.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s111.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/111.wma"/>
+	<dbpprop:suraNumber>111</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Masad Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Masad</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>المسد</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Masad (Arabic: سورة المسد‎) or Sūrat al-Lahab (Arabic: سورة اﻟﻠﻬﺐ‎) (The Palm Fibre or The Flame) is the 111th Sura of the Qur'an with 5 ayat. It is a Makkan surah.This very early Makkan Surah, though it referred in the first instance to a particular incident in a cruel and relentless persecution, carries the general lesson that cruelty ultimately ruins itself. </dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>ThePalmFibre</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>شكسته باد</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>ابولهب، و همسر آتش افروز و هيزم‏كش او از سردمداران مشركين مخالف پيامبر بودند و آن حضرت را آزار مى‏دادند. در اين سوره (آيه 1) نفرين شده كه شكسته باد دستان ابولهب و خودش نابود باد. نام ديگر سوره، «مسد» است. يعنى ريسمانى بافته شده از ليف خرما. در مورد همسر ابولهب در آخرين آيه مى‏گويد كه در گردن زنش در حالت عذاب ريسمانى از اين نوع خواهد بود. سوره لهب هم گفته شده است. بعد از سوره «فاتحه‏» و به قولى بعد از «مدثر» در اوائل بعثت در مكه نازل شده و 6 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>603</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/603.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>5</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>An-Nasr</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Ikhlaas</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112.rdf"/>
+	<wtlabprop:order>6</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6217</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111/5.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

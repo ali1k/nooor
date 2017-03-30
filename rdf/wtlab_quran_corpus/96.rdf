@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/96.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_علق"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-'Alaq"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Alaq"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/96.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s96.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/096.wma"/>
+	<dbpprop:suraNumber>96</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Alaq Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Alaq</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>العلق</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-ʿAlaq (العلق"The Clot"), is the 96th sura or chapter of the Qur'an. It is composed of 19 Ayat (verses or "signs"), and is traditionally believed to have been revealed at Mecca at cave Hira. It is sometimes also known as Sūrat al-Iqrā (إقرا, "Read").The first five verses of this sura are believed by nearly all sources, to be the first verses of the Qur'an to be revealed to Muhammad.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheClot</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>خون بسته، زالو، كرم</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه دوم، مبدء خلقت انسان از «علق‏» مى‏داند، كرمى زالو شكل، اسپرماتوزوئيد. بعضى هم علق را از ريشه تعلق و وابستگى گرفته‏اند و گفته‏اند انسان از وابستگى و تعلقات خلق شده است. اولين سوره‏اى است كه در غار حرا، هنگام بعثت پيامبر، بر او نازل شده است و سخن از خواندن و آفرينش انسان و تسليم او و طغيانش به ميان آمده است. اين سوره مكى است و 19 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>597</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/597.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>1</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>1</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>19</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Tin</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Qadr</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97.rdf"/>
+	<wtlabprop:order>1</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6107</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96/19.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

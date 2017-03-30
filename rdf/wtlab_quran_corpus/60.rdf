@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/60.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_ممتحنه"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Mumtahina"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Mumtahina"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/60.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s60.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/060.wma"/>
+	<dbpprop:suraNumber>60</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">110</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Mumtahana Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Mumtahana</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الممتحنة</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Mumtahina (Arabic: سورة الممتحنة‎) (She That Is To Be Examined, Examining Her) is the 60th sura of the Qur'an, a Madinan sura with 13 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>Shethatistobeexamined</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>زن امتحان شده</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 10 مى‏خوانيم :«زنان مؤمنى را كه بسوى شما هجرت كرده‏اند بيازمائيد. اگر واقعا ايمان آورده بودند، آنان را دوباره پيش مشركين بر نگردانيد. زيرا بر آنان حرام مى‏باشند...». در اين سوره، مرز دوستى‏ها و دشمنى‏ها و سياست‏خارجى مؤمنين، در رابطه با دشمن، برخى از مسائل تربيتى و همچنين يادى از قيامت، بيان شده است. احكام هجرت و بيعت و ايمان زنان مسلمان، از مسائل ديگر اين سوره مى‏باشد.اين سوره كه با 13 آيه در سال 10 هجرى در مدينه نازل شده، دو نام ديگر هم دارد، كه عبارتند از: «امتحان‏»، «مراة‏» (زن) آيات 1 تا 9 بمناسبت جاسوسى شخصى به نفع مشركين و دادن گزارش نظامى از تصميم مسلمين به جنگ با مشركين نازل شده و بهمين جهت آيات، از داشتن رابطه دوستانه با مشركين نهى كرده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>549</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/549.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>13</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Hashr</dbpprop:previousSura>	
+	<dbpprop:nextSura>As-Saff</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61.rdf"/>
+	<wtlabprop:order>91</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5151</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60/13.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

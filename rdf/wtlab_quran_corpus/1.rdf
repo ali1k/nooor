@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/1.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_فاتحه"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Fatiha"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Fatiha"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/1.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/taf1-s1.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/001.wma"/>
+	<dbpprop:suraNumber>1</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">1</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">1</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Faatiha Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Faatiha</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الفاتحة</dbpprop:arabicName>
+	<dbpprop:abstract>Sura Al-Fatiha (Arabic: سورة الفاتحة‎), (Sūratul-Fātihah, "The Opener") is the first chapter of the Qur'an. Its seven verses are a prayer for Allah's guidance, and stress His Lordship and Mercy. This chapter has an essential role in Salaatu Allah, Namaaz, (prayer of God); Muslims recite the Surah Al-Fatiha seventeen times a day in Farz (Compulsory) Salaatu Allah, at the start of each unit of prayer.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheOpening</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>گشاينده</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>چون قرآن با اين سوره شروع مى‏شود و اين سوره آغازگر قرآن است، «فاتحه‏» ناميده مى‏شود. بخاطر حمد و ستايشى كه در اين سوره از خداوند بعمل آمده نام ديگرش سوره «حمد» است. و نيز بنام «شكر» و «وافيه‏» و «نور» هم از آن ياد مى‏شود. نام ديگرش «سبع المثانى‏» است و نيز «ام الكتاب‏». امام صادق(ع) فرموده است: سوره‏اى كه اولش ستايش، وسطش اخلاص و آخرش نيايش است. (تفسير برهان ج 1 ص 42.) اين سوره 7 آيه دارد و در سال سوم بعثت آمده و چهل و سومين سوره است كه در مكه نازل شده است. بعضى هم اين سوره را اولين سوره دانسته‏اند.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>1</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/1.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>7</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>-</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Baqara</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="null"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/2.rdf"/>
+	<wtlabprop:order>5</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>1</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/1/7.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

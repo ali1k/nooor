@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/72.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_جن"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Jinn"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Jinn"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/72.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s72.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/072.wma"/>
+	<dbpprop:suraNumber>72</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">29</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">115</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Jinn Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Jinn</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الجن</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Jinn (Arabic: سورة الجن‎) (The Jinn) is the 72nd sura of the Qur'an with 28 ayat. The name as well as the topic of this chapter is jinn. Similar to angels, the Jinn are considered to be spiritual beings invisible to the naked human eye. The habitat of angels is considered to be the sky, whereas it is the earth for Jinn. In the Quran, it is stated that humans are created from the earth and jinn from fire in more than one instance and it is also evident from the hadeeth that the angels were created from light.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheJinn</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>موجودى نامرئى با ويژگيهائى عجيب</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>خداوند، انواع گوناگون آفريده و بنده دارد. يكى هم جن است. در اين سوره، درباره گروهى از آنان و عكس العملشان در برابر شنيدن آيات قرآن، و دعوت محمد، و دسته‏هاى مؤمن و كافر، و مسلم و قاسط از آنان صحبت‏شده است و مبين توحيد ربوبى است. اين سوره، بروى انسان درى از «آن جهان‏» مى‏گشايد و او را به قلمرو بيكرانه آفرينش خدا مى‏كشد. تا بدانند كه جز خودشان، ديگرانى هم هستند كه خدا شناس و عاقل و مطيع سنت‏هاى الهى‏اند. اين سوره حدودا در سال 6 بعثت نازل شده است. آن هنگام كه پيامبر براى دعوت قبيله ثقيف به «طائف‏» رفته بود و آنها ضمن رد دعوت، پيامبر را آزار دادند و در بازگشت، خدا اين آيات را فرستاد. و برخى هم گفته‏اند كه پس از وفات خديجه و ابوطالب و يكى دو سال به هجرت مانده، نازل شده است. سوره جن 28 آيه دارد و مكى است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>572</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/572.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>28</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Nooh</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Muzzammil</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/71.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/73.rdf"/>
+	<wtlabprop:order>40</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5448</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/72/28.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

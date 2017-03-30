@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/64.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_تغابن"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/At-Taghabun"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/At-Taghabun"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/64.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s64.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/064.wma"/>
+	<dbpprop:suraNumber>64</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">111</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">At-Taghaabun Sura</rdfs:label>
+	<dbpprop:nameOfSurah>At-Taghaabun</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>التغابن</dbpprop:arabicName>
+	<dbpprop:abstract>Surat At-Taghabun (Arabic: سورة التغابن‎) (Mutual Disillusion, Haggling) is the 64th sura of the Qur'an with 18 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>MutualDisillusion</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>گول‏خوردگى و حسرت و خسران</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>«روز تغابن‏» يكى از نامهاى روز قيامت است كه در آيه 9 آمده است. چرا كه در قيامت، انسانها از اينكه براى حيات ابدى آن جهان، چندان كارى نكرده و عمل صالحى ذخيره نكرده‏اند و يا گناه و معصيت و فساد به همراه آورده‏اند، احساس ضرر و خسران مى‏كنند و حسرت و افسوس مى‏خورند. در آيه 9 از رستاخيز، با اين نام ياد مى‏كند و كلا در اين سوره، تشويق فراوانى به انفاق مى‏كند تا انسان مفتون «اموال و اولاد» نگردد و در قيامت، مغبون و زيانكار به حساب نيايد. با 18 آيه از سوره‏هاى مدنى قرآن محسوب مى‏گردد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>556</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/556.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>18</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Munaafiqoon</dbpprop:previousSura>	
+	<dbpprop:nextSura>At-Talaaq</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65.rdf"/>
+	<wtlabprop:order>108</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5200</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64/18.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

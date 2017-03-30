@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/100.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_عادیات"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-'Adiyat"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Adiyat"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/100.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s100.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/100.wma"/>
+	<dbpprop:suraNumber>100</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Aadiyaat Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Aadiyaat</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>العاديات</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat Al-ʿĀdiyāt (Arabic: سورة العاديات‎ ) (The Courser, The Chargers) is the 100th sura of the Qur'an with 11 verses (ayat).Allah in the beginning of this surah is referring to the steeds that charge into battle in early morning (the preferred time of attack by the prophet Muhammad. He waited to hear the athan from the other side, if it was not heard he would attack.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheChargers</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>دوندگان</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>عاديات، اسبهاى تيزتك و تندرو مى‏باشد كه هنگام دويدن، همهمه صدايش بگوش مى‏رسد. خداوند در نخستين آيه، به چنين اسبها و اسب‏سواران چابك كه از سم اسبان آتش مى‏پرد و سحرگاهان بر سر دشمن هجوم مى‏آورند، سوگند مى‏خورد و برخى نكات تربيتى و انسان‏شناسى و كفران انسان نسبت به نعمتها و مالدوستى شديد انسان، در پى آن مطرح مى‏شود و با اشاره‏اى به رستاخيز و قيامت، پايان مى‏گيرد. لحن آيات مى‏رساند كه بايد در مدينه و پس از تشريع حكم جهاد با دشمن، آيات، نازل شده باشد. در روايات آمده كه اين سوره درباره على(ع) و گروه پارتيزانى او كه در جنگ «ذات السلاسل‏» به دشمن شبيخون زدند، نازل شده است كه گروههاى اعزامى سابق ناموفق بودند ولى اين گروه توانستند ضربه خود را بزنند. اين سوره مدنى است و 11 آيه دارد و پس از سوره «عصر» نازل گشته است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>599</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/599.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>11</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Az-Zalzala</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Qaari'a</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/99.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/101.rdf"/>
+	<wtlabprop:order>14</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6147</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/100/11.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/66.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_تحریم"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Tahrim"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/At-Tahrim"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/66.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s66.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/066.wma"/>
+	<dbpprop:suraNumber>66</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">112</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">At-Tahrim Sura</rdfs:label>
+	<dbpprop:nameOfSurah>At-Tahrim</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>التحريم</dbpprop:arabicName>
+	<dbpprop:abstract>Surat At-Tahrim (Arabic: سورة التحريم‎) (Banning, Prohibition) is the 66th sura of the Qur'an with 12 ayat. The entire Surah was revealed to Prophet Muhammad to expose A'isha's and Hafsa's conspiracy against Zaynab bint Jahsh and the Prophet. The surah also confirms the virgin birth of Jesus:[Quran 66:12]: "And Mary, daughter of 'Imran, whose body was chaste, therefore We breathed therein something of Our Spirit."This sura is the 66th sura of the Qur'an in Juz 28. It is a Medinan sura. It was named "At-Tahrim (Probihition, Harãm) because in the sura, Allah advices to Muhammad not to stop eating his wive's Zaynab bint Jahsh honey because of what Hafsa have told him regarding his breath which Allah confirmed that is a lie.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheProhibition</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>حرام و ممنوع ساختن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه اول سوره، خداوند از پيامبرش گله و شكوه مى‏كند كه چرا براى جلب رضايت بعضى از همسرانش، آنچه را كه خدا بر آو حلال كرده، بر خود حرام مى‏كند. اين خطاب آميخته به عتاب و سرزنش، در واقع سرزنش بعضى از آن زنان پيغمبر است كه با رفتارشان باعث چنين عكس العملى از سوى پيامبر شدند. نقل شده كه موضوع، مربوط به روابط خانوادگى بوده است. بعد از ادامه مطلب در چند آيه بعدى، با ذكرى از قيامت و عذاب دوزخ و دعوت به توبه، فرمان جهاد با كفار و منافقين و سختگيرى با آنان مى‏دهد و در پايان، بعنوان نمونه‏اى از همسران ناشايسته، از زن نوح و لوط ياد كرده و زن فرعون و حضرت مريم را بعنوان الگوهاى تعهد و ايمان و عمل و عفت، معرفى مى‏كند. سوره تحريم مدنى است و در سال 10 هجرى نازل شده و 12 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>560</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/560.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>12</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Talaaq</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Mulk</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/67.rdf"/>
+	<wtlabprop:order>107</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5230</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66/12.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

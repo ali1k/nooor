@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/87.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_اعلی"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-A'la"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Ala"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/87.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s87.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/087.wma"/>
+	<dbpprop:suraNumber>87</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">119</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-A'laa Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-A'laa</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الأعلى</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Aʿlā (Arabic: الأعلى‎ al-Aʿlà, The Most High, Glory To Your Lord In The Highest) is the 87th sura of the Qur'an with 19 ayat. Al-Ala describes the Islamic view of existence, the Oneness of Allah, and Divine revelation, additionally mentioning rewards and punishments. Mankind often hides things from each other and from themselves as well. The sura reminds us that Allah knows the things that are declared and things that lie hidden. The final verse of this Sura affirms that a similar message was also revealed to Abraham and Moses in their scriptures.Surat Al-A'lā is among the most recited suras in the Jummah prayer.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheMostHigh</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>برتر</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه اول خدا را با صفت «برتر» بيان كرده است و به تسبيح او، كه آفريدگار و مدبر جهان است فرمان داده است. در اين سوره، حيات برتر و جاودانه آخرت، و «فلاح‏» در سايه «تزكيه‏» و «ذكر» و «نماز» مطرح شده، و همه، در رابطه با توحيد الهى است. پيامبر اين سوره را دوست داشت و در نماز جمعه و عيد فطر و قربان آن را مى‏خواند و ذكر سجده را از آيه اول اين سوره الهام گرفته است. بعد از سوره تكوير و در اوائل بعثت در مكه نازل شده و داراى 19 آيه مى‏باشد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>591</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/591.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>19</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Taariq</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Ghaashiya</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/86.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/88.rdf"/>
+	<wtlabprop:order>8</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5949</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/87/19.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

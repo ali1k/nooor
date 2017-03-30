@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/analyzed/32/1.rdf"> 
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Analyzed"/>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/analyzed/32/1.html"/>
+	<wtlabprop:AyahAnalyze>
+		<wtlabprop:Ayah شماره="1">
+		<wtlabprop:Phr مدخل="الم">
+		<wtlabprop:Word>
+		<wtlabprop:مدخل>"الم"</wtlabprop:مدخل>
+		<wtlabprop:ونديت>"مبنا"</wtlabprop:ونديت>
+		<wtlabprop:قِسم>"حروف مقطعه"</wtlabprop:قِسم>
+		</wtlabprop:Word>
+		</wtlabprop:Phr>
+		</wtlabprop:Ayah>
+	</wtlabprop:AyahAnalyze>
+</rdf:Description> 
+</rdf:RDF> 

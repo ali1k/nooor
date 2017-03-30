@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/65.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_طلاق"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Talaq"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/At-Talaq"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/65.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s65.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/065.wma"/>
+	<dbpprop:suraNumber>65</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">112</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">At-Talaaq Sura</rdfs:label>
+	<dbpprop:nameOfSurah>At-Talaaq</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الطلاق</dbpprop:arabicName>
+	<dbpprop:abstract>Surat At-Talaq (Arabic: سورة الطلاق‎) (Divorce) is the 65th sura of the Qur'an with 12 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>Divorce</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>رها ساختن و طلاق دادن زن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره، احكام و مسائلى كلى در مورد طلاق و عده زنان مطلقه و مسائل، و احكام خانواده و ... بيان مى‏شود. به همين جهت، اين سوره نام ديگرى هم دارد و آن نساء (زنان) است. در كنار مسائل فوق، موعظه‏ها و اندرزهائى و بشارتهائى هم داده شده است. و يادى از هلاكت اقوامى به جهت‏سر پيچى از فرمان خداوند. اين سوره در حدود سالهاى 7 - 9 هجرت در مدينه نازل شده و 12 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>558</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/558.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>12</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Taghaabun</dbpprop:previousSura>	
+	<dbpprop:nextSura>At-Tahrim</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/66.rdf"/>
+	<wtlabprop:order>99</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5218</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/65/12.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

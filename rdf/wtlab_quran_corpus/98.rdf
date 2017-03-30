@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/98.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_بینه"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Bayyina"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Bayyina"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/98.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s98.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/098.wma"/>
+	<dbpprop:suraNumber>98</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Bayyina Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Bayyina</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>البينة</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Bayyina (Arabic: سورة البينة‎ ) (The Clear Proof, Evidence) is the 98th sura of the Qur'an with 8 ayat.The sura opens by condemning the polytheists of Arabia, as well as those amongst the People of the Book who had fallen into disbelief. However, they may be restored only by a "clear sign" from God who speaks holy and untainted words - the Prophet Muhammad bringing the Qur'an, which lays down proper laws and morality.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheEvidence</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>دليل روشن و حجت آشكار</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>اين سوره، بيانگر رسالت عام پيامبر نسبت به همه مشركين و يهود و نصارى است و دعوت او را از همه بشريت به آئين حق باز مى‏گويد و صلاح جامعه انسانى را در سايه اعتقاد و عمل مى‏داند. گرايش مشركين و اهل كتاب را به ايمان توحيدى، در سايه آمدن «بينه‏» مى‏داند و خود محمد (ص) نمونه و مصداقى از اين حجت آشكار براى انديشه‏ها و پيروان اديان ديگر است (امام باقر فرموده است: البينه محمد رسول الله «ص‏» (الميزان ج 20 ص 482) به نقل از تفسير القمى.) به نام «لم يكن‏» هم مشهور است و اين نام از آغاز سوره اقتباس شده است. از نام‏هاى ديگر اين سوره «اهل الكتاب‏» «قيامت‏»، «بريه‏» و «انفكاك‏» است. بعد از سوره طلاق نازل شده و از سوره‏هاى مدنى است و 8 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>598</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/598.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>8</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Qadr</dbpprop:previousSura>	
+	<dbpprop:nextSura>Az-Zalzala</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/99.rdf"/>
+	<wtlabprop:order>100</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6131</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98/8.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/109.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_کافرون"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Kafirun"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Kafirun"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/109.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s109.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/109.wma"/>
+	<dbpprop:suraNumber>109</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Kaafiroon Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Kaafiroon</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الكافرون</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Kāfirūn (Arabic: سورة الكافرون‎) is the name of the 109th Sura (chapter) of the Qur'an. Al-Kafirun means "the Unbelievers."Like many of the shorter Suras, the Sura of the Unbelievers takes the form of an invocation, telling the reader something they must ask for or say aloud. Here, the passage asks one to keep in mind the separation between belief and unbelief both in the past and the present, ending with the often cited line "To you your religion, and to me mine".It was revealed in Mecca when the Muslims were persecuted by the polytheists of Mecca.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheDisbelievers</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>كافرها</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره، خداوند به پيامبر فرمان برائت از خدايان مشركين و عقايد باطل آنها را مى‏دهد. چرا كه ميان توحيد و شرك، هرگز سازشى نيست. نزول اين سوره در پى آن بود كه بعضى از مشركين، از پيامبر مى‏خواستند كه مدتى بت‏هاى آن را عبادت كنند تا آنها هم خداى محمد را بپرستند. سوره، مسلمانان را از سازش بر سر اصول اعتقادى و مبانى بنيادى مكتب بر حذر مى‏دارد. بنام سوره «عبادات‏» هم گفته شده است. 6 آيه دارد و بعد از سوره ماعون (يا: فيل) در اوائل بعثت در مكه نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>603</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/603.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>6</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Kawthar</dbpprop:previousSura>	
+	<dbpprop:nextSura>An-Nasr</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110.rdf"/>
+	<wtlabprop:order>18</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6208</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109/6.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

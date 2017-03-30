@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/93.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_ضحی"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Duha"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Ad-Dhuha"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/93.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s93.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/093.wma"/>
+	<dbpprop:suraNumber>93</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">119</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Ad-Dhuhaa Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Ad-Dhuhaa</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الضحى</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Ḍuḥā (Arabic: الضحى‎, The Morning Hours, Morning Bright) is the 93rd sura of the Qur'an with 11 ayat.Although there is some debate amongst scholars, this sura in often considered to be the second revealed to Muhammad. After the first sura (al-Alaq) was received, there was a period of silence in which no further messages were revealed. During this time, the new Prophet wondered if he had somehow displeased God, who it seemed for a while was no longer sending down His message. This sura broke that silence, and reassured Muhammad that all will be understood in time. The image of the morning (ad-Dhuha) is the first word of the sura, and can be understood as symbolizing Muhammad's "new day" as the Messenger of God, as well as the "dawn" of the new way of life that would become Islam. After this sura, the visitations of Gabriel with the words of the Qur'an would come to Muhammad regularly until his death.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheMorningHours</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>نور و روشنائى</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>خداوند به روشنائى روز و فراگيرى شب قسم ياد كرده كه پيامبر را رها نكرده است (آيات 1 - 3). مى‏دانيم كه مدتى وحى از پيامبر قطع شد و اين بهانه‏اى براى عيبجوئى مشركين بود كه خداوند با فرستادن اين آيات در جهت تقويت روحى و تاييد پيامبر رحمت‏خود نازل كرد. سيزدهمين سوره است كه بعد از سوره قلم و قبل از «مزمل‏» در مكه و اوائل بعثت نازل شده و 11 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>596</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/596.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>11</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Lail</dbpprop:previousSura>	
+	<dbpprop:nextSura>Ash-Sharh</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/92.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94.rdf"/>
+	<wtlabprop:order>11</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6080</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93/11.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

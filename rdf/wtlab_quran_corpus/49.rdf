@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/49.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_حجرات"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Hujurat"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Hujurat"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/49.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s49.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/049.wma"/>
+	<dbpprop:suraNumber>49</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">26</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">103,104</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Hujuraat Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Hujuraat</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الحجرات</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Hujurat (Arabic: سورة الحجرات‎ ) (the Chambers) is the 49th sura of the Qur'an with 18 ayat.Verse 15 addresses the Muslim identity.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheInnerApartments</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>حجره‏ها و اطاقها</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 4 نكوهشى از آندسته بى خردانى شده كه بدون رعايت نكات اخلاقى از بيرون و پشت پنجره با فرياد، پيامبر را صدا مى‏كردند. اين سوره مشتمل است بر نكاتى از ادب و اخلاق مسلمان در رابطه با خدا و پيامبر و جلو نيفتادن از آنها، و سفارش به اصلاح بين مسلمانان و همنوعان و برخى نظامات اجتماعى، و كلاً سوره‏اى است اخلاقى، كه از تمسخر و استهزاء، سوء ظن، تجسس و غيبت نهى مى‏كند و از همه مردم، كسى را برتر مى‏داند كه با تقوا است «ان اكرمك عند اللّه اتقاكم‏» - آيه 13. اين سوره كه 18 آيه دارد، مدنى است و در سال 7 هجرى نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>515</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/515.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>18</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Fath</dbpprop:previousSura>	
+	<dbpprop:nextSura>Qaaf</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/50.rdf"/>
+	<wtlabprop:order>106</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>4613</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49/18.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/94.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_شرح"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Sharh"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Inshirah"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/94.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s94.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/094.wma"/>
+	<dbpprop:suraNumber>94</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Ash-Sharh Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Ash-Sharh</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الشرح</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Sharḥ (Arabic: سورة الشرح‎, Solace or Comfort) is the 94th sura of the Qur'an with eight ayat and is a Meccan sura.It is typically assumed that this sura is referring to the early days of Muhammad's prophethood, when he would have been both confused by the revelations, and unsure about how his people would receive him. Because of subject matter, length, style, and placement in the Qur'an, this sura is often coupled with Sura ad-Dhuha. They are generally considered to have been revealed around the same time.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheConsolation</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>گشاده شدن، وسيع شدن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>شرح صدر و فراخى سينه، كنايه از ظرفيت زياد، براى دريافت‏حقائق و تحمل سختيهاى راه دعوت است. در آيه اول خداوند، عطاى چنين شرح صدرى را به پيامبر بيان مى‏كند و او را دعوت به كار مستمر و پيگير مى‏نمايد و نويد مى‏دهد كه: با هر سختى، آسانى است. (نانبرده رنج، گنج ميسر نمى‏شود مزد آن گرفت جان برادر كه كار كرد) اين سوره بعد از «ضحى‏» نازل شده و مكى است (و بعضى گفته‏اند مدنى است). بعضى اين سوره را با سوره قبلى‏اش، مجموعا يكسوره حساب كرده‏اند. سوره «الم نشرح‏» داراى 8 آيه مى‏باشد. نام ديگر اين سوره، «شرح‏» است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>596</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/596.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>8</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Ad-Dhuhaa</dbpprop:previousSura>	
+	<dbpprop:nextSura>At-Tin</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/93.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95.rdf"/>
+	<wtlabprop:order>12</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6091</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94/8.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

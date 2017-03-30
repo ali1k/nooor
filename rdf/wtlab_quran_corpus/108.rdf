@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/108.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_کوثر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Kawthar"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Kawthar"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/108.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s108.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/108.wma"/>
+	<dbpprop:suraNumber>108</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Kawthar Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Kawthar</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الكوثر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Kawthar (Arabic: سورة الكوثر‎) ("Abundance") is the 108th sura of the Qur'an, and the shortest. There are several differing opinions as to the circumstances under which it was revealed. According to Ibn Ishaq, it was revealed in Makka, some time before the Isra and Miraj.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Abundance</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>خير فراوان</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اينكه منظور از كوثر، نهرى است در بهشت، يا حوضى در محشر، يا ذريه و فرزندان زياد، يا علماى امت، يا نبوت و قرآن، يا علم و حكمت‏يا ... نظريه‏هاى گوناگونى وجود دارد. منظور هر كدام باشد، اين خير كثير را خداوند به پيامبر اعطا كرده است (آيه 1) اين سوره يك سطرى كه 3 آيه دارد و از اعجازهاى قرآن است در جواب عيبجوئى‏هاى مشركين نازل شده كه بخاطر نداشتن فرزند پسر، پيامبر را مقطوع النسل و «ابتر» مى‏گفتند. بعد از «عصر» يا «عاديات‏» در مكه نازل شده است. سال اول بعثت. بعضى هم گفته‏اند كه در «صلح حديبيه‏» نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>602</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/602.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>3</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Maa'un</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Kaafiroon</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109.rdf"/>
+	<wtlabprop:order>15</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6205</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108/3.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

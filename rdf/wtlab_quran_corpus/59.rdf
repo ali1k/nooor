@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/59.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_حشر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Hashr"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Hashr"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/59.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s59.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/059.wma"/>
+	<dbpprop:suraNumber>59</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">109,110</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Hashr Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Hashr</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الحشر</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Hashr (Arabic: سورة الحشر‎ ) (Exile, Banishment) is the 59th sura in the 28th part (Juz) of the Qur'an with 24 ayat. The surah describes expulsion of Jewish Banu Nadir tribe from their settlements by the Medinans and states it happened by will of Allah as a result of the Jews' transgressions. Because of that it is also known as surah An-Nadir, after the tribe of Banu Nadir].</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheExile</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>بيرون آمدن، بر انگيخته شدن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 2 بيان مى‏كند كه خداوند، براى اولين بار، كسانى را از اهل كتاب (يهود و نصارى) كه كفر ورزيدند، (از قلعه‏هايشان) بيرون مى‏آورد. يهودى‏ها مى‏پنداشتند كه با داشتن حصارها و قلعه‏ها هرگز مغلوب نخواهند شد ولى بدست پيامبر و مؤمنين شكست‏خوردند و از پايگاهها و قلعه‏هايشان بيرون رانده شدند. و اين در سايه پيمان شكنى يهود بنى نضير بود كه منافقانه نقش ستون پنجم را در داخل مدينه بازى مى‏كردند. بهمين جهت‏سوره بنام «بنى نضير» هم گفته شده است. اين سوره مدنى است و در سال 4 هجرى نازل شده است و 24 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>545</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/545.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>24</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Mujaadila</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Mumtahana</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/58.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60.rdf"/>
+	<wtlabprop:order>101</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>3</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5127</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/59/24.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

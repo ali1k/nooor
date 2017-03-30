@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/analyzed/92/21.rdf"> 
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Analyzed"/>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/analyzed/92/21.html"/>
+	<wtlabprop:AyahAnalyze>
+		<wtlabprop:Ayah شماره="21">
+		<wtlabprop:Phr مدخل="وَ">
+		<wtlabprop:Word>
+		<wtlabprop:مدخل>"وَ"</wtlabprop:مدخل>
+		<wtlabprop:ونديت>"مبنا"</wtlabprop:ونديت>
+		<wtlabprop:قِسم>"حرف"</wtlabprop:قِسم>
+		<wtlabprop:PAtrib>
+		<wtlabprop:معربيت>"مبني"</wtlabprop:معربيت>
+		<wtlabprop:تخصيص>"مشترک-اسم-و-فعل"</wtlabprop:تخصيص>
+		<wtlabprop:عامليت>"خنثي"</wtlabprop:عامليت>
+		<wtlabprop:معنايي>"عطف"</wtlabprop:معنايي>
+		</wtlabprop:PAtrib>
+		</wtlabprop:Word>
+		</wtlabprop:Phr>
+		<wtlabprop:Phr مدخل="لَسَوْفَ">
+		<wtlabprop:Word>
+		<wtlabprop:مدخل>"لَ"</wtlabprop:مدخل>
+		<wtlabprop:ونديت>"پيشوند"</wtlabprop:ونديت>
+		<wtlabprop:قِسم>"حرف"</wtlabprop:قِسم>
+		<wtlabprop:PAtrib>
+		<wtlabprop:معربيت>"مبني"</wtlabprop:معربيت>
+		<wtlabprop:تخصيص>"خاص-اسم"</wtlabprop:تخصيص>
+		<wtlabprop:عامليت>"جار"</wtlabprop:عامليت>
+		<wtlabprop:معنايي>"جر-موکد"</wtlabprop:معنايي>
+		</wtlabprop:PAtrib>
+		</wtlabprop:Word>
+		<wtlabprop:Word>
+		<wtlabprop:مدخل>"سَوْفَ"</wtlabprop:مدخل>
+		<wtlabprop:ونديت>"مبنا"</wtlabprop:ونديت>
+		<wtlabprop:قِسم>"حرف"</wtlabprop:قِسم>
+		<wtlabprop:PAtrib>
+		<wtlabprop:معربيت>"مبني"</wtlabprop:معربيت>
+		<wtlabprop:تخصيص>"خاص-فعل"</wtlabprop:تخصيص>
+		<wtlabprop:عامليت>"خنثي"</wtlabprop:عامليت>
+		<wtlabprop:معنايي>"آينده"</wtlabprop:معنايي>
+		</wtlabprop:PAtrib>
+		</wtlabprop:Word>
+		</wtlabprop:Phr>
+		<wtlabprop:Phr مدخل="يَرْضَى">
+		<wtlabprop:Word>
+		<wtlabprop:مدخل>"يَرْضَى"</wtlabprop:مدخل>
+		<wtlabprop:ونديت>"مبنا"</wtlabprop:ونديت>
+		<wtlabprop:قِسم>"فعل"</wtlabprop:قِسم>
+		<wtlabprop:VAtrib>
+		<wtlabprop:معربيت>"معرب"</wtlabprop:معربيت>
+		<wtlabprop:تبديلات>"ناقص"</wtlabprop:تبديلات>
+		<wtlabprop:جنبه>"مضارع"</wtlabprop:جنبه>
+		<wtlabprop:حالت-فعل>"مضارع"</wtlabprop:حالت-فعل>
+		<wtlabprop:زمان>"حال"</wtlabprop:زمان>
+		<wtlabprop:تصريف>"متصرف"</wtlabprop:تصريف>
+		<wtlabprop:شخص>"غائب"</wtlabprop:شخص>
+		<wtlabprop:تعداد>"مفرد"</wtlabprop:تعداد>
+		<wtlabprop:جنس>"مذکر"</wtlabprop:جنس>
+		<wtlabprop:اعراب>"مرفوع"</wtlabprop:اعراب>
+		<wtlabprop:وجه>"معلوم"</wtlabprop:وجه>
+		</wtlabprop:VAtrib>
+		<wtlabprop:Morph>
+		<wtlabprop:Pref>
+		<wtlabprop:مدخل>"يَ"</wtlabprop:مدخل>
+		<wtlabprop:معنايي-صرفي>"صرفي"</wtlabprop:معنايي-صرفي>
+		</wtlabprop:Pref>
+		<wtlabprop:Stem>
+		<wtlabprop:مدخل>"رْضَى"</wtlabprop:مدخل>
+		<wtlabprop:ساختار>"ثلاثي-مجرد"</wtlabprop:ساختار>
+		<wtlabprop:قالب>"يَفْعَل"</wtlabprop:قالب>
+		<wtlabprop:ريشه>"ر+ض+ي|و"</wtlabprop:ريشه>
+		<wtlabprop:الفباي-اضافه>""</wtlabprop:الفباي-اضافه>
+		</wtlabprop:Stem>
+		</wtlabprop:Morph>
+		</wtlabprop:Word>
+		</wtlabprop:Phr>
+		</wtlabprop:Ayah>
+	</wtlabprop:AyahAnalyze>
+</rdf:Description> 
+</rdf:RDF> 

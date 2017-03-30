@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/89.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_فجر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Fajr"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Fajr_(sura)"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/89.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s89.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/089.wma"/>
+	<dbpprop:suraNumber>89</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">119</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Fajr Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Fajr</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الفجر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Fajr (Arabic: سورة الفجر‎ Sūrat ul-Faǧr, The Dawn, Daybreak) is the 89th sura of the Qur'an with 30 ayat.The sura describes destruction of disbelieving peoples, such as Ancient Egyptians and the people of Iram of the Pillars. It condemns those who love wealth and look with disdain upon the poor and orphans. Righteous people are promised Paradise – the final verse says "Enter thou My Heaven".</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheDawn</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>سپيده دم</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه اول، خداوند، به فجر قسم خورده است. به اين انفجار نور در خيمه ظلمت‏شب. جالب است كه بدانيم سوره «فجر» بعد از سوره «ليل‏» نازل شده است همچنانكه در طبيعت هم سپيده دم فجر، پس از «شب‏»، فرا مى‏رسد. اين سوره را، در روايات، سوره حسين بن على دانسته‏اند و به خواندن آن توصيه كرده‏اند. (امام صادق‏«ع‏»: اقرؤا سورة الفجر فى فرائضكم و نوافلكم فانها سورة الحسين بن على(ع) (تفسير برهان ج 4 ص 457.)) اينهم جالب است. چرا كه قيام كربلاى حسين، خود انفجارى فجرى از ايمان و جهاد بود در ظلمت‏شب جور و شرك بنى اميه. و همچنانكه با فجر و آغاز روز، حركت و حيات مردم، شروع مى‏شود، با خون حسين و يارانش در عاشورا، اسلام جانى تازه گرفت و حياتى مجدد يافت. در مفهوم «فجر»، در تفاسير، مصداقهاى گوناگونى ذكر شده است. در اين سوره، از وابستگى به دنيا كه در نتيجه طغيان و كفران نعمت پديد مى‏آيد نكوهش شده و وعده عذاب شديد در دنيا و آخرت داده شده است و در پايان، باز هم گريزى به معاد و تاكيدى روى رجعت انسان به سوى پروردگار، آمده است. چهلمين سوره‏اى است كه در سال دوم يا سوم بعثت در مكه نازل شده و 30 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>593</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/593.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>30</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Ghaashiya</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Balad</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/88.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/90.rdf"/>
+	<wtlabprop:order>10</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5994</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/29.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/89/30.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

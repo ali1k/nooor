@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/95.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_تین"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Tin"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/At-Tin"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/95.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s95.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/095.wma"/>
+	<dbpprop:suraNumber>95</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">At-Tin Sura</rdfs:label>
+	<dbpprop:nameOfSurah>At-Tin</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>التين</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Tīn (Arabic: التين‎, The Fig, The Figtree) is the 95th sura of the Qur'an with 8 ayat.This sura opens by mentioning the fig (the sura's namesake), the olive, Mount Sinai, and "this city secured" (generally considered to be Mecca).</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheFig</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>انجير</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره به انجير و زيتون و طور سينا قسم خورده شده است. تين و زيتون، نام دو ميوه است، يا به درخت اين دو ميوه قسم خورده شده، و به قول بعضى‏ها نام دو كوهى است كه دمشق و بيت المقدس بر آن استوار گشته و رمز سوگند ياد كردن به اين دو كوه و به طور سينا آن است كه اين سه جا، خاستگاه و محل بعثت بسيارى از پيامبران بوده است. در كنار اين سه قسم، به مكه هم سوگند ياد شده، كه محل بعثت پيامبر اسلام است. بعد از همه اينها، سخن از انسان و آفرينش او و ايمان و عمل صالحش مى‏باشد و اينكه در اثر بى تقوائى، انسان به پست‏ترين جايگاهها هم سقوط مى‏كند مگر مؤمنان صالح. در سال سوم بعثت در مكه نازل شده (بعد از سوره بروج) و 7 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>597</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/597.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>8</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Ash-Sharh</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Alaq</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/94.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96.rdf"/>
+	<wtlabprop:order>28</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6099</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/95/8.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/62.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_جمعه"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Jumua"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Jumua"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/62.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s62.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/062.wma"/>
+	<dbpprop:suraNumber>62</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">111</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Jumu'a Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Jumu'a</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الجمعة</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Jumʿua (Arabic: سورة الجمعة‎) (The food/table) is the 62nd sura of the Qur'an with 11 ayat.The first verse states that everything "declares the glory" of God, the second verse states that God gave "to the pagan folk (Arabs) an Apostle from among themselves", in order to teach them Islam, third verse says that is he also send to other people how have not joined yet. The chapter then ends stating that Fridays should be spent in remembrance of God, rather than enjoying "merchandise or sport".</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>Friday</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>جمعه</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>جمعه، روز بزرگ و عيد هفتگى اسلامى است. روز «جمع‏» شدن مردم در مساجد و مجالس دينى است، روز برپائى نماز پر شكوه جمعه (اين عبادت سياسى - اجتماعى) و اقامه اين شعار است. در اين سوره، پس از توصيف خدا و بيان فلسفه بعثت و رسالت، و اشاره به قوم يهود در رابطه با دين، دعوت به «نماز جمعه‏» مى‏كند. (آيه 9). در ركعت اول نماز جمعه، اين سوره خوانده مى‏شود. و جمعه و نماز جمعه در فرهنگ اسلام، نقش بسزائى در تربيت و تهذيب و تعليم، و تحكيم پايه‏هاى جامعه اسلامى دارد. سوره جمعه 11 آيه دارد و در سال 2 هجرى در مدينه نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>553</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/553.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>11</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>As-Saff</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Munaafiqoon</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63.rdf"/>
+	<wtlabprop:order>110</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5178</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62/11.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/82.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_انفطار"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Infitar"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Infitar"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/82.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s82.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/082.wma"/>
+	<dbpprop:suraNumber>82</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">118</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Infitaar Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Infitaar</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الإنفطار</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Infiṭār (Arabic: سورة الانفطار‎) (The Cleaving, Bursting Apart) is the 82nd sura of the Qur'an with 19 ayat. The chapter is named ‘Al-Infitar’ because of the occurrence of the word ‘unfatarat’, in the first verse of this chapter. Infitar means ‘split asunder’. This word, ‘Unfatarat’ is used in this chapter in order to describe the splitting the sky on the day of Judgment. This chapter (Al-Infitar), along with Chapter At-Takwir and Al-Inshiqaq provide exhaustive description about ‘Day of Judgment’.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheCleaving</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>شكافته شدن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>اين سوره هم، در مورد قيامت و سر انجام نيكان و بدان در بهشت و دوزخ مى‏باشد و شكافته شدن آسمان، بمعناى در هم ريختن اين نظام قائم، باز هم پيش درآمدى بر رستاخيز و از جمله شرائط متصل به قيامت است. و از ثبت و ضبط دقيق اعمال هر انسان مطالبى دارد كه توسط دو فرشته انجام مى‏گيرد. اين سوره، با 19 آيه، بعد از «نازعات‏» در سال 3 بعثت در مكه نازل شده است</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>587</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/587.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>19</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Takwir</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Mutaffifin</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/81.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/83.rdf"/>
+	<wtlabprop:order>82</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5830</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/82/19.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

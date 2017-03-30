@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/61.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_صف"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/As-Saff"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/As-Saff"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/61.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s61.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/061.wma"/>
+	<dbpprop:suraNumber>61</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">110</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">As-Saff Sura</rdfs:label>
+	<dbpprop:nameOfSurah>As-Saff</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الصف</dbpprop:arabicName>
+	<dbpprop:abstract>Surat As-Saff (Arabic: سورة الصف‎) (The Ranks, Battle Array) is the 61st sura of the Qur'an with 14 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheRanks</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>رديف و صف</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>خداوند پيكار گرانى را كه در راه او، همچون صفى فولادين و بنيانى استوار مى‏جنگند دوست مى‏دارد. اين مطلب در آيه 4 از اين سوره بيان شده است. اين سوره، تشويق و تحريك مسلمين به مبارزه با دشمن، و معرفى اسلام، بعنوان فروغى الهى و فروزان مى‏باشد و نويد غلبه و حاكميت اين آئين را بر اديان ديگر مى‏دهد. نام ديگر اين سورع، «حواريين‏» است. بمناسبت اينكه در آخرين آيه‏اش دعوت عيساى مسيح از «حواريين‏» براى نصرت دين خدا بيان شده است. كلا محور آيات اين سوره بر دو موضوع «عقيده‏» و «جهاد» است. اين سوره كه 14 آيه دارد در سال دوم هجرت در مدينه نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>551</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/551.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>14</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Mumtahana</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Jumu'a</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/60.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62.rdf"/>
+	<wtlabprop:order>109</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5164</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/61/14.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

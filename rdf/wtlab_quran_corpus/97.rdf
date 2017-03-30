@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/97.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_قدر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Qadr"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Qadr_(sura)"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/97.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s97.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/097.wma"/>
+	<dbpprop:suraNumber>97</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Qadr Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Qadr</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>القدر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Qadr (Arabic: سورة القدر‎) (Power, Fate) is the 97th sura of the Qur'an with 5 ayat. It is a Meccan sura.This sura describes Laylat al-Qadr, the "Night of Power" in Ramadan on which Muslims believe the Qur'an was first revealed. The "Spirit" mentioned in verse 4 is commonly interpreted as referring to the angel Jibreel (Gabriel). The "peace" referred to is called by Mujahid "security in which Shaytan (Iblis) cannot do any evil or any harm", while Ibn Kathir quotes Ash-Sha'bi as saying that it refers to the angels greeting the people in the mosques throughout the night.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Fate</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>اندازه، سنجش، ارزش</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره، از شب ارزش آفرينى و اندازه‏گيرى و مقدرات انسان سخن به ميان آمده است. شبى كه از هزار ماه برتر است (در بعضى روايات شيعه، اين هزار ماه به مدت حكومت ظالمانه بنى اميه تفسير شده كه هزار ماه طول كشيده است (به نقل الميزان جلد 20 ص 474.).) و در يكى از شبهاى ماه رمضان (21 يا 23) قرار دارد. و شبى است كه قرآن در آن بر قلب پيامبر نازل گشته است. شب اتصال مطلق ميان زمين و ملكوت اعلاست و فرود آمدن فرشته‏ها از آسمان، و شب سلامتى است. اين سوره، در حدود سال 4 بعثت، بعد از سوره «عبس‏» در مكه نازل شده و 5 آيه دارد و سوره‏اى است بسيار مبارك و با فضيلت.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>598</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/598.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>5</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Alaq</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Bayyina</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/96.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/98.rdf"/>
+	<wtlabprop:order>25</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6126</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/97/5.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

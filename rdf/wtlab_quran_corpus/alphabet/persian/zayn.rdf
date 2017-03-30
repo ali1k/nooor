@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/zayn.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-derivedAlphabets"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Alphabet"/>
+	<dbpprop:languages rdf:resource="http://dbpedia.org/resource/Persian_language"/>
+	<dbpprop:title>Persian alphabet</dbpprop:title>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/ز"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/ز"/>
+	<wtlabprop:NameOfAlphabet>zayn</wtlabprop:NameOfAlphabet>
+	<wtlabprop:IsolatedShapeOfAlphabet>ز</wtlabprop:IsolatedShapeOfAlphabet> 	
+	<wtlabprop:InitialShapeOfAlphabet>ز</wtlabprop:InitialShapeOfAlphabet> 
+	<wtlabprop:MedialShapeOfAlphabet>ـز</wtlabprop:MedialShapeOfAlphabet> 
+	<wtlabprop:FinalShapeOfAlphabet>ـز</wtlabprop:FinalShapeOfAlphabet> 
+	<wtlabprop:NumberOfDotOfAlphabet>1</wtlabprop:NumberOfDotOfAlphabet> 
+	<wtlabprop:IndexInAbjadOfAlphabet>7</wtlabprop:IndexInAbjadOfAlphabet> 
+	<wtlabprop:ValueInAbjadOfAlphabet>7</wtlabprop:ValueInAbjadOfAlphabet>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/zayn.html"/>	
+</rdf:Description> 
+</rdf:RDF> 

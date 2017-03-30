@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/104.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_همزه"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Humaza"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Humaza"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/104.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s104.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/104.wma"/>
+	<dbpprop:suraNumber>104</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Humaza Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Humaza</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الهمزة</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat Al-Humaza (Arabic: سورة الهمزة‎ ) (The Traducer, The Gossipmonger) is the 104th sura of the Qur'an, with 9 ayat.It condemns those who slander others, whether by speech or action, and imagine that their own wealth will keep them immune from death, and describes the doom of Hell which awaits them.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheTraducer</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>عيبجو و طعنه زن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره از كسانى كه از ديگران عيجبوئى كرده و با حركات چشم و ابر و مسخره‏شان مى‏كنند و به ثروتهاى جمع شده خود مغرورند نكوهش شده است و وعده آتش به آنها داده شده و آيات تنذيرى اين سوره مربوط به آغاز دعوت و دوران درگيرى با اشراف است. بعد از سوره قيامت نازل شده و از سوره‏هاى مكى است و 9 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>601</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/601.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>9</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Asr</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Fil</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/105.rdf"/>
+	<wtlabprop:order>32</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6180</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104/9.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

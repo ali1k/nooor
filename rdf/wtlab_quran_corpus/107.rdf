@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/107.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_ماعون"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Ma'un"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Ma'un"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/107.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s107.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/107.wma"/>
+	<dbpprop:suraNumber>107</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Maa'un Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Maa'un</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الماعون</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Māʿūn (Arabic: سورة الماعون‎) (Small Kindnesses, Almsgiving, Have You Seen) is the 107th sura of the Qur'an with 7 ayat.This Surah was revealed in Madina where a myriad of factions were conspiring to contain the growing Islamic influence. The Surah discusses the character of those who claim to be Muslims but are oblivious of the hereafter. These people deprive the orphans of their rights, are heedless to the dues of the destitute, and pray without holding God in remembrance, forgetting the objective behind prayer. Their charitable acts are a display of their false piety, since they do not give for the love of God.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Almsgiving</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>ظرف غذا</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آخرين آيه، از نمازگزاران سهل‏انگار و رياكار كه از اطعام و سير كردن گرسنگان با ظرفهاى پر از غذا جلوگيرى مى‏كنند نكوهش شده است و اينها همه در رديف تكذيب‏كنندگان دين محسوب شده‏اند به اين مناسبت، اين سوره بنام سوره «دين‏» هم گفته شده است. نقل شده كه نزول سوره درباره ابوجهل و كفار قريش بوده است. اين سوره بعد از تكاثر و قبل از «فيل‏» و در مكه در سال 2 بعثت نازل شده و 7 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>602</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/602.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>7</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Quraish</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Kawthar</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/108.rdf"/>
+	<wtlabprop:order>17</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6198</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107/7.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

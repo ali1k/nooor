@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/13/16.rdf"> 
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Ayah"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Ayah"/>
+	<rdfs:label xml:lang="en">Ayah Number 16 From Surah Number 13</rdfs:label>
+	<wtlabprop:NumberOfAyah rdf:datatype="xsd;integer">16</wtlabprop:NumberOfAyah>
+	<wtlabprop:CounterOfAyah>1723</wtlabprop:CounterOfAyah>
+	<dbpprop:juz xml:lang="en">13</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">50</dbpprop:hizbNumber>
+	<dbpprop:abstract>قُلْ مَنْ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ قُلِ اللَّهُ ۚ قُلْ أَفَاتَّخَذْتُمْ مِنْ دُونِهِ أَوْلِيَاءَ لَا يَمْلِكُونَ لِأَنْفُسِهِمْ نَفْعًا وَلَا ضَرًّا ۚ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ أَمْ هَلْ تَسْتَوِي الظُّلُمَاتُ وَالنُّورُ ۗ أَمْ جَعَلُوا لِلَّهِ شُرَكَاءَ خَلَقُوا كَخَلْقِهِ فَتَشَابَهَ الْخَلْقُ عَلَيْهِمْ ۚ قُلِ اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ</dbpprop:abstract>   
+	<wtlabprop:PersianTranslation>بگو: «چه کسی پروردگار آسمانها و زمین است؟» بگو: «اللّه!» (سپس) بگو: «آیا اولیا (و خدایانی) غیر از او برای خود برگزیده‌اید که (حتّی) مالک سود و زیان خود نیستند (تا چه رسد به شما؟!)» بگو: «آیا نابینا و بینا یکسانند؟! یا ظلمتها و نور برابرند؟! آیا آنها همتایانی برای خدا قرار دادند بخاطر اینکه آنان همانند خدا آفرینشی داشتند، و این آفرینشها بر آنها مشتبه شده است؟!» بگو: «خدا خالق همه چیز است؛ و اوست یکتا و پیروز!»</wtlabprop:PersianTranslation>
+	<wtlabprop:PersianTranslationStemmed>گفت چه کس+ی (پروردگار|پرورد+گار) آسمان+ها و زمین  گفت الله سپس گفت آیا ولی و خدا+یانی غیر از او برای خود بر که حتی مالک سود و (زیان|زی+ان) خود  تا چه رسید به شما گفت آیا (نابینا|ناب+ینا|نا-بین+ا|نا+بینا) و (بینا|بین+ا) ? یا ظلمت+ها و نور ? آیا آن+ها (همتا+یانی|همت+ایانی) برای خدا قرار داد ب-خاطر اینکه آن+ان همانند خدا (آفرینش+ی|آفرین+شی) داشت و این (آفرینش+ها|آفرین+شها) بر آن+ها مشتبه کرد گفت خدا خالق همه چیز  و او  (یکتا|یک+تا) و پیروز </wtlabprop:PersianTranslationStemmed>
+	<wtlabprop:PersianTranslationPOStagged>بگو | گفت#گو  | گو  | فعل | گروه فعلی | 1 | مثبت |  دوم شخص مفرد | امر  | معلوم | امری@@@: | : | : | جدا کننده جمله | جدا کننده ها | 2@@@« | « | « | جدا کننده لغات | جدا کننده ها | 3@@@چه | چه | چه | اسم | گروه اسمی | 4 | مفرد | جامد | نکره | عام | ساده@@@کسی | کس | کس+ی | صفت* | گروه اسمی | 4 |  | @@@پروردگار | پروردگار | پروردگار | صفت* | گروه اسمی | 4 |  | @@@آسمانها | آسمان | آسمان+ها | اسم* | گروه اسمی | 4 | جمع | جامد | نکره | عام | ساده@@@و | و | و | حرف ربط | حرف ربط | 4@@@زمین | زمین | زمین | اسم | گروه اسمی | 4 | مفرد | جامد | نکره | عام | ساده@@@است | #است  |  | فعل | گروه فعلی | 5 | مثبت |  سوم شخص مفرد | حال ساده اخباری  | معلوم | خبری@@@؟ | ؟ | ؟ | جدا کننده جمله | جدا کننده ها | 6@@@» | » | » | جدا کننده لغات | جدا کننده ها | 7@@@بگو | گفت#گو  | گو  | فعل | گروه فعلی | 8 | مثبت |  دوم شخص مفرد | امر  | معلوم | امری@@@: | : | : | جدا کننده جمله | جدا کننده ها | 9@@@« | « | « | جدا کننده لغات | جدا کننده ها | 10@@@اللّه | اللّه | اللّه | اسم | گروه اسمی | 11 | مفرد | جامد | معرفه | عام | ساده@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 12@@@» | » | » | جدا کننده لغات | جدا کننده ها | 13@@@( | ( | ( | جدا کننده لغات | جدا کننده ها | 14@@@سپس | سپس | سپس | حرف ربط | حرف ربط | 15@@@) | ) | ) | جدا کننده لغات | جدا کننده ها | 16@@@بگو | گفت#گو  | گو  | فعل | گروه فعلی | 17 | مثبت |  دوم شخص مفرد | امر  | معلوم | امری@@@: | : | : | جدا کننده جمله | جدا کننده ها | 18@@@« | « | « | جدا کننده لغات | جدا کننده ها | 19@@@آیا | آیا | آیا | اسم | گروه اسمی | 20 | مفرد | جامد | معرفه | عام | ساده@@@اولیا | ولی | ولی | اسم | گروه اسمی | 20 | مفرد | جامد | معرفه | عام | ساده@@@( | ( | ( | جدا کننده لغات | جدا کننده ها | 21@@@و | و | و | حرف ربط | حرف ربط | 22@@@خدایانی | خدا | خدا+یانی | اسم* | گروه اسمی | 23 | مفرد | جامد | نکره | عام | ساده@@@) | ) | ) | جدا کننده لغات | جدا کننده ها | 24@@@غیر | غیر | غیر | اسم | گروه اسمی | 25 | مفرد | جامد | معرفه | عام | ساده@@@از | از | از | حرف اضافه | گروه حرف اضافه‏ای | 26@@@او | او | او | ضمیر | گروه اسمی | 26 | سوم شخص مفرد | جامد | معرفه قطعی | عام | ساده@@@برای | برای | برای | حرف اضافه | گروه حرف اضافه‏ای | 27@@@خود | خود | خود | اسم | گروه اسمی | 27 | مفرد | جامد | معرفه | عام | ساده@@@برگزیده‌اید | بر#گزید#گزین  | بر | فعل | گروه فعلی | 28 | مثبت |  دوم شخص جمع | گذشته نقلی ساده  | معلوم | خبری@@@که | که | که | حرف ربط | حرف ربط | 29@@@( | ( | ( | جدا کننده لغات | جدا کننده ها | 30@@@حتّی | حتّی | حتّی | اسم | گروه اسمی | 31 | مفرد | جامد | معرفه | عام | ساده@@@) | ) | ) | جدا کننده لغات | جدا کننده ها | 32@@@مالک | مالک | مالک | اسم | گروه اسمی | 33 | مفرد | جامد | معرفه | عام | ساده@@@سود | سود | سود | اسم | گروه اسمی | 33 | مفرد | جامد | معرفه | عام | ساده@@@و | و | و | حرف ربط | حرف ربط | 33@@@زیان | زیان | زیان | اسم | گروه اسمی | 33 | مفرد | جامد | معرفه | عام | ساده@@@خود | خود | خود | اسم | گروه اسمی | 33 | مفرد | جامد | معرفه | عام | ساده@@@نیستند | #هست  |  | فعل | گروه فعلی | 34 | منفی |  سوم شخص جمع | حال ساده اخباری  | معلوم | خبری@@@( | ( | ( | جدا کننده لغات | جدا کننده ها | 35@@@تا | تا | تا | حرف ربط | حرف ربط | 36@@@چه | چه | چه | اسم | گروه اسمی | 37 | مفرد | جامد | معرفه | عام | ساده@@@رسد | رسید#رس  | رس  | فعل | گروه فعلی | 38 | مثبت |  سوم شخص مفرد | حال التزامی  | معلوم | خبری@@@به | به | به | حرف اضافه | گروه حرف اضافه‏ای | 39@@@شما | شما | شما | ضمیر | گروه اسمی | 39 | دوم شخص جمع | جامد | معرفه قطعی | عام | ساده@@@؟ | ؟ | ؟ | جدا کننده جمله | جدا کننده ها | 40@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 41@@@) | ) | ) | جدا کننده لغات | جدا کننده ها | 42@@@» | » | » | جدا کننده لغات | جدا کننده ها | 43@@@بگو | گفت#گو  | گو  | فعل | گروه فعلی | 44 | مثبت |  دوم شخص مفرد | امر  | معلوم | امری@@@: | : | : | جدا کننده جمله | جدا کننده ها | 45@@@« | « | « | جدا کننده لغات | جدا کننده ها | 46@@@آیا | آیا | آیا | اسم | گروه اسمی | 47 | مفرد | جامد | معرفه | عام | ساده@@@نابینا | نابینا | نابینا | اسم | گروه اسمی | 47 | مفرد | جامد | معرفه | عام | ساده@@@و | و | و | حرف ربط | حرف ربط | 47@@@بینا | بینا | بینا | اسم | گروه اسمی | 47 | مفرد | جامد | معرفه | عام | ساده@@@یکسانند | یکسانند | یکسانند | اسم | گروه اسمی | 47 | مفرد | جامد | معرفه | عام | ساده@@@؟ | ؟ | ؟ | جدا کننده جمله | جدا کننده ها | 48@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 49@@@یا | یا | یا | حرف ربط | حرف ربط | 50@@@ظلمتها | ظلمت | ظلمت+ها | اسم* | گروه اسمی | 51 | جمع | جامد | معرفه | عام | ساده@@@و | و | و | حرف ربط | حرف ربط | 51@@@نور | نور | نور | اسم | گروه اسمی | 51 | مفرد | جامد | معرفه | عام | ساده@@@برابرند | برابرند | برابرند | اسم | گروه اسمی | 51 | مفرد | جامد | معرفه | عام | ساده@@@؟ | ؟ | ؟ | جدا کننده جمله | جدا کننده ها | 52@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 53@@@آیا | آیا | آیا | اسم* | گروه اسمی | 54 | مفرد | جامد | معرفه | عام | ساده@@@آنها | آن | آن+ها | ضمیر | گروه اسمی | 54 | سوم شخص جمع | جامد | معرفه قطعی | عام | ساده@@@همتایانی | همتا | همتا+یانی | اسم* | گروه اسمی | 55 | مفرد | جامد | نکره | عام | ساده@@@برای | برای | برای | حرف اضافه | گروه حرف اضافه‏ای | 56@@@خدا | خدا | خدا | اسم | گروه اسمی | 56 | مفرد | جامد | معرفه | عام | ساده@@@قرار | قرار | قرار | اسم | گروه اسمی | 56 | مفرد | جامد | معرفه | عام | ساده@@@دادند | داد#ده  | داد | فعل | گروه فعلی | 57 | مثبت |  سوم شخص جمع | گذشته ساده  | معلوم | خبری@@@بخاطر | ب-خاطر | ب-خاطر | اسم | گروه اسمی | 58 | مفرد | جامد | معرفه | عام | ساده@@@اینکه | اینکه | اینکه | حرف | حرف عام | 59@@@آنان | آن | آن+ان | اسم- اسم مکان* | گروه اسمی | 60@@@همانند | همانند | همانند | اسم | گروه اسمی | 60 | مفرد | جامد | نکره | عام | ساده@@@خدا | خدا | خدا | اسم | گروه اسمی | 60 | مفرد | جامد | نکره | عام | ساده@@@آفرینشی | آفرینش | آفرینش+ی | صفت* | گروه اسمی | 60 |  | @@@داشتند | داشت#دار  | داشت | فعل | گروه فعلی | 61 | مثبت |  سوم شخص جمع | گذشته ساده  | معلوم | خبری@@@، | ، | ، | جدا کننده لغات | جدا کننده ها | 62@@@و | و | و | حرف ربط | حرف ربط | 63@@@این | این | این | اسم | گروه اسمی | 64 | مفرد | جامد | معرفه | عام | ساده@@@آفرینشها | آفرینش | آفرینش+ها | اسم* | گروه اسمی | 64 | جمع | جامد | معرفه | عام | ساده@@@بر | بر | بر | حرف اضافه | گروه حرف اضافه‏ای | 65@@@آنها | آن | آن+ها | ضمیر | گروه اسمی | 65 | سوم شخص جمع | جامد | معرفه قطعی | عام | ساده@@@مشتبه | مشتبه | مشتبه | اسم | گروه اسمی | 66 | مفرد | جامد | معرفه | عام | ساده@@@شده است | کرد#کن  | کن  | فعل | گروه فعلی | 67 | مثبت |  سوم شخص مفرد | گذشته ساده  | معلوم | خبری@@@؟ | ؟ | ؟ | جدا کننده جمله | جدا کننده ها | 68@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 69@@@» | » | » | جدا کننده لغات | جدا کننده ها | 70@@@بگو | گفت#گو  | گو  | فعل | گروه فعلی | 71 | مثبت |  دوم شخص مفرد | امر  | معلوم | امری@@@: | : | : | جدا کننده جمله | جدا کننده ها | 72@@@« | « | « | جدا کننده لغات | جدا کننده ها | 73@@@خدا | خدا | خدا | اسم | گروه اسمی | 74 | مفرد | جامد | معرفه | عام | ساده@@@خالق | خالق | خالق | اسم | گروه اسمی | 74 | مفرد | جامد | معرفه | عام | ساده@@@همه | همه | همه | اسم | گروه اسمی | 74 | مفرد | جامد | معرفه | عام | ساده@@@چیز | چیز | چیز | اسم | گروه اسمی | 74 | مفرد | جامد | معرفه | عام | ساده@@@است | #است  |  | فعل | گروه فعلی | 75 | مثبت |  سوم شخص مفرد | حال ساده اخباری  | معلوم | خبری@@@؛ | ؛ | ؛ | جدا کننده جمله | جدا کننده ها | 76@@@و | و | و | حرف ربط | حرف ربط | 77@@@اوست | او | او+ست | اسم | گروه اسمی | 78 | مفرد | جامد | معرفه | عام | مرکب@@@یکتا | یکتا | یکتا | اسم | گروه اسمی | 78 | مفرد | جامد | معرفه | عام | ساده@@@و | و | و | حرف ربط | حرف ربط | 78@@@پیروز | پیروز | پیروز | اسم | گروه اسمی | 78 | مفرد | جامد | معرفه | عام | ساده@@@! | ! | ! | جدا کننده جمله | جدا کننده ها | 79@@@» | » | » | جدا کننده لغات | جدا کننده ها | 80@@@. | . | . | جدا کننده جمله | جدا کننده ها | 81@@@</wtlabprop:PersianTranslationPOStagged>
+	<wtlabprop:EnglishTranslation>Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."</wtlabprop:EnglishTranslation>
+	<wtlabprop:EnglishTranslationStemmed>Say(say) Who(who) is(is) the(the) Lord(lord) and(and) Sustainer(sustain) of(of) the(the) heavens(heaven) and(and) the(the) earth(earth) Say(say) It(it) is(is) Allah(allah) Say(say) Do(do) ye(ye) then(then) take(take) for(for) worship(wore) protectors(protector) other(othe) than(than) Him(him) such(such) as(as) have(have) no(no) power(pow) either(either) for(for) good(good) or(or) for(for) harm(harm) to(to) themselves(themselves) Say(say) Are(are) the(the) blind(blind) equal(equ) with(with) those(those) who(who) see(see) Or(or) the(the) depths(depth) of(of) darkness(dark) equal(equ) with(with) light(light) Or(or) do(do) they(thei) assign(assign) to(to) Allah(allah) partners(partner) who(who) have(have) created(cree) anything(anything) as(as) He(he) has(ha) created(cree) so(so) that(that) the(the) creation(cree) seemed(seem) to(to) them(them) similar(similar) Say(say) Allah(allah) is(is) the(the) Creator(creator) of(of) all(all) things(thing) He(he) is(is) the(the) One(one) the(the) Supreme(supreme) and(and) Irresistible(irresistible)   \Steaming</wtlabprop:EnglishTranslationStemmed>
+	<wtlabprop:EnglishTranslationPOStagged>Say(VBP) Who(WP) is(VBZ) the(DT) Lord(NN) and(CC) Sustainer(NN) of(IN) the(DT) heavens(NNS) and(CC) the(DT) earth(NNP) Say(VBP) It(PRP) is(VBZ) Allah(NNP) Say(VBP) Do(VBP) ye(PRP) then(RB) take(VB) for(IN) worship(NN) protectors(NNS) other(JJ) than(IN) Him(PRP) such(JJ) as(IN) have(VBP) no(DT) power(NNP) either(DT) for(IN) good(JJ) or(CC) for(IN) harm(NN) to(TO) themselves(PRP) Say(VBP) Are(VBP) the(DT) blind(JJ) equal(JJ) with(IN) those(DT) who(WP) see(VB) Or(CC) the(DT) depths(NNS) of(IN) darkness(NNS) equal(JJ) with(IN) light(NNP) Or(CC) do(VBP) they(PRP) assign(VB) to(TO) Allah(NNP) partners(NNS) who(WP) have(VBP) created(VBN) anything(VBG) as(IN) He(PRP) has(VBZ) created(VBN) so(RB) that(IN) the(DT) creation(NN) seemed(VBD) to(TO) them(PRP) similar(JJ) Say(VBP) Allah(NNP) is(VBZ) the(DT) Creator(NN) of(IN) all(DT) things(NNS) He(PRP) is(VBZ) the(DT) One(CD) the(DT) Supreme(NNP) and(CC) Irresistible(JJ)   \POSTagging</wtlabprop:EnglishTranslationPOStagged>
+	<wtlabprop:AllTranslationLink rdf:resource="http://www.parsquran.com/data/show.php?user=far&amp;lang=far&amp;sura=13&amp;ayat=16"/>
+	<wtlabprop:meanings>بي ارزش بودن بت ها و غير خدا براي پرستش</wtlabprop:meanings>
+	<wtlabprop:RelatedAyah></wtlabprop:RelatedAyah>
+	<wtlabprop:suraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/13.rdf"/>
+	<wtlabprop:Sajdah wtlabprop:SajdahStatusAyah="No"/>
+	<wtlabprop:PageOfAyah rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/251.rdf"/>
+	<dbpprop:words>49</dbpprop:words>
+	<wtlabprop:numberofdot>85</wtlabprop:numberofdot>
+	<wtlabprop:alphabets>
+		<rdf:Bag>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/alifmaddah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/alif.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">27</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ba.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">3</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ta.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">8</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/tha.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/jim.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ha.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/kha.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">5</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/dal.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">2</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/dhal.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ra.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">7</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/zayn.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/sin.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">4</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/shin.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">3</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/sad.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/dad.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">2</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/taa.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/zaa.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ain.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">4</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ghayn.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/fa.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">4</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/qaf.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">10</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/kaf.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">4</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/lam.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">35</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/mim.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">11</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/non.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">7</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/haa.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">12</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/waw.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">16</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/ya.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">8</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/tamarbutah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/hamze.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">3</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/yawithhamze.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/alifwithhamzahabove.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">7</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/alifwithhamzahunder.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/wawwithhamze.rdf"/> 
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/yawithoutdot.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/daggeralif.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/arabic/alifwaslah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+		</rdf:Bag>
+	</wtlabprop:alphabets>
+	<wtlabprop:erab>
+		<rdf:Bag>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/sukun.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">31</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/fathah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">63</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/kasrah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">23</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/dammah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">27</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/fathahtanwin.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">2</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/kasrahtanwin.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">1</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/dammahtanwin.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">0</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+			<rdf:li>
+				<wtlabprop:AlphabetProperty>
+					<wtlabprop:AlphabetType rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/erab/shaddah.rdf"/>
+					<wtlabprop:AlphabetCounter rdf:datatype="xsd;integer">11</wtlabprop:AlphabetCounter>
+				</wtlabprop:AlphabetProperty>
+			</rdf:li>
+		</rdf:Bag>
+	</wtlabprop:erab>
+	<wtlabprop:AyahAnalyzeURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/analyzed/13/16.rdf"/>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/13/16.html"/>
+	</rdf:Description>
+</rdf:RDF> 

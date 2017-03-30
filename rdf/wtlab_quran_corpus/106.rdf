@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/106.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_قریش"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_Quraysh"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Quraysh_(sura)"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/106.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s106.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/106.wma"/>
+	<dbpprop:suraNumber>106</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Quraish Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Quraish</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>قريش</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat Quraysh (Arabic: سورة قريش‎) (after the tribe of Quraysh) is the 106th chapter of the Qur'an. It is a Meccan sura consisting of 4 ayat.It urges the Quraysh tribe who dominated Mecca to serve God, who had protected them, for the sake of their own future. It is one of two suras containing 4 ayat; the other is Al-Ikhlas. It forms a pair with the preceding sura, al-Fil, reminding the Quraysh of the favors that God had bestowed on them. It is said[by whom?] that in Ubayy ibn Ka'b's copy of the Quran they were written together as a single sura.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Quraysh</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>الفت دادن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>نام ديگر سوره «قريش‏» است. در رابطه با سوره قبلى، كه دشمنان حبشى مهاجم به كعبه نابود شدند، اين كار، بخاطر تجمع خاطر و انس و الفت و ايمنى «قريش‏» در كوچ‏هاى تابستانى و زمستانى انجام گرفت و در مقابل، از آنان انتظار است كه خدا را پرستش كنند. سوره مكى است و بجهت پيوستگى مطالبش با سوره فيل، بعضى‏ها اين دو را يك سوره حساب كرده‏اند. 5 آيه دارد و در سال 3 بعثت، بعد از سوره «تين‏» نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>602</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/602.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>4</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Fil</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Maa'un</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/105.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/107.rdf"/>
+	<wtlabprop:order>29</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6194</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/106/4.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

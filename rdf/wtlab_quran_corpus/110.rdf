@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/110.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_نصر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Nasr"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/An-Nasr"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/110.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s110.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/110.wma"/>
+	<dbpprop:suraNumber>110</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">An-Nasr Sura</rdfs:label>
+	<dbpprop:nameOfSurah>An-Nasr</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>النصر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Naṣr (Arabic: سورة النصر‎) (Divine Support) is the 110th sura of the Qur'an with 3 ayat. Al-Nasr translates to English as "The Victory". It is the third shortest sura after Al-Asr and Al-Kawthar, with only three medium length ayahs. This is believed to be the last revelation given to Muhammad and a sign to his approaching death.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>DivineSupport</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>يارى</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره، از نصر و يارى خدا و پيروزى و فتح بزرگ است كه از سوى خدا فرا رسيده است و مردم فوج فوج به دين خدا مى‏گروند. گفته‏اند كه در ايام «حجة الوداع‏» سال آخر عمر پيامبر در «منا» نازل شده و آخرين سوره‏اى است كه به نحو كامل و يكجا آمده است. بعد از سوره توبه و 3 آيه دارد. نام ديگرش «توديع‏» است. چرا كه بعنوان آخرين سوره‏ها، وداعى با پيامبر و پيامبر با امت محسوب مى‏شود و در آن اشاره‏اى به وفات رسول گرامى اسلام شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>603</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/603.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>3</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Kaafiroon</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Masad</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/109.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111.rdf"/>
+	<wtlabprop:order>114</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6214</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/110/3.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

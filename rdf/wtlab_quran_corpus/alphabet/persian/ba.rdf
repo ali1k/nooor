@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/ba.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-derivedAlphabets"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Alphabet"/>
+	<dbpprop:languages rdf:resource="http://dbpedia.org/resource/Persian_language"/>
+	<dbpprop:title>Persian alphabet</dbpprop:title>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/ب"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/ب"/>
+	<wtlabprop:NameOfAlphabet>ba</wtlabprop:NameOfAlphabet>
+	<wtlabprop:IsolatedShapeOfAlphabet>ب</wtlabprop:IsolatedShapeOfAlphabet> 	
+	<wtlabprop:InitialShapeOfAlphabet>بـ</wtlabprop:InitialShapeOfAlphabet> 
+	<wtlabprop:MedialShapeOfAlphabet>ـبـ</wtlabprop:MedialShapeOfAlphabet> 
+	<wtlabprop:FinalShapeOfAlphabet>ـب</wtlabprop:FinalShapeOfAlphabet> 
+	<wtlabprop:NumberOfDotOfAlphabet>1</wtlabprop:NumberOfDotOfAlphabet> 
+	<wtlabprop:IndexInAbjadOfAlphabet>2</wtlabprop:IndexInAbjadOfAlphabet> 
+	<wtlabprop:ValueInAbjadOfAlphabet>2</wtlabprop:ValueInAbjadOfAlphabet>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/ba.html"/>	
+</rdf:Description> 
+</rdf:RDF> 

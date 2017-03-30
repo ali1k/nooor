@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/102.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_تکاثر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Takathur"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/At-Takathur"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/102.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s102.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/102.wma"/>
+	<dbpprop:suraNumber>102</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">At-Takaathur Sura</rdfs:label>
+	<dbpprop:nameOfSurah>At-Takaathur</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>التكاثر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Takāthur (Arabic: سورة التكاثر‎) (Rivalry In World Increase, Competition) is the 102nd sura of the Qur'an with 8 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Competition</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>افتخار به زيادى ثروت و عزت</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در دو آيه اول از تكاثر نكوهش شده، يعنى افزون طلبى در ثروت و قدرت، و افتخار كردن به كثرت اموال و قوم و قبيله و عزت اجتماعى. مشركين براى اثبات عظمت‏خود از جهت نفرات، حتى مرده‏هاى خود را هم در گورستان به حساب مى‏آوردند. چه بازيچه و مشغوليتى!... در بعضى تفاسير، به قومى از يهود تفسير شده و در بعضى به دو قبيله از قريش و در بعضى هم به دو گروه از انصار. اين سوره، بعد از سوره كوثر، نازل شده و 9 آيه دارد و از سوره‏هاى مكى است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>600</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/600.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>8</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Qaari'a</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Asr</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/101.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103.rdf"/>
+	<wtlabprop:order>16</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6169</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102/8.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/57.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_حدید"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Hadid"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Hadid"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/57.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s57.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/057.wma"/>
+	<dbpprop:suraNumber>57</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">27</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">108</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Hadid Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Hadid</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الحديد</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Ḥadīd (Arabic: سورة الحديد‎ ) (Iron) is the 57th sura of the Qur'an, with 29 ayat.Surat Al-Hadid is the 57th Surah of the Qur'an prefixed by the Basmala (the 9th. sura is not - see also Sunnan Abu Dawood a hadith 785-787). This sura is the only one named for a chemical element. (And We also sent down iron in which there lies great force and which has many uses for mankind)… (Qur'an, 57:25) The reference to iron is in verse 25 of this Surah, which states: "...We sent down Iron, in which is (material for) mighty power, as well as many benefits for mankind...".</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheIron</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>آهن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه 25 از آهن بعنوان مظهر قدرت و منفعت، در كنار نازل كردن كتاب و ميزان (سمبل مكتب و عدالت اجتماعى) ياد مى‏كند. حديد، به اسلحه، به امام، به حضرت قائم(ع) هم تاويل شده است.(مرآة الانوار ص 124.) هدف اصلى سوره، تشويق به انفاق در راه خدا است كه از ايمان و تقوا سرچشمه مى‏گيرد. اخلاص و زهد و موعظه و معارفى از مبدا و معاد از مطالب ديگر اين سوره است. در حديثى آمده كه: چون خداوند مى‏دانست كه در آخر الزمان افرادى عميق و ژرف انديش پديد خواهند آمد سوره قل هو الله احد و آياتى از اين سوره را (از اول تا آيه 6) نازل كرد.(الميزان ج 19 ص 168.) اين سوره مدنى است. با 28 آيه در سال پنجم هجرى نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>537</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/537.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>29</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Waaqia</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Mujaadila</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/56.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/58.rdf"/>
+	<wtlabprop:order>94</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>4</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5076</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/57/29.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

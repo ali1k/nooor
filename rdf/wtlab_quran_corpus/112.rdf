@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/112.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_اخلاص"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Ikhlas"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Ikhlas"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/112.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s112.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/112.wma"/>
+	<dbpprop:suraNumber>112</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Ikhlaas Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Ikhlaas</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الإخلاص</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Ikhlāṣ (Arabic: سورة الإخلاص‎) (The Fidelity), aka Sūrat al-Tawḥīd (Arabic: سورة التوحيد‎) (Monotheism) is the 112th Sura of the Qur'an. It is a short declaration of tawhid, God's absolute unity, consisting of 4 ayat. Al-Ikhlas means "the purity" or "the refining".It is disputed whether this is a Meccan or Madinan sura. The former seems more probable, particularly since it seems to be have been alluded to by Bilal, who, when he was being tortured by his cruel master, is said to have repeated "Ahad, Ahad!" (unique, referring as here to Allah). It is reported from Ubayy ibn Ka'b that it was revealed after the polytheists asked "O Muhammad! Tell us the lineage of your Lord."</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Sincerity</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>خالص كردن</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>سوره «اخلاص‏»، يا «توحيد»، يا «قل هو الله‏» وحدانيت و اوصاف خداوند را بيان مى‏كند و بسيار فضيليت دارد معادل يك سوم قرآن است. به نام سوره «اساس‏» هم ياد شده است. سوره در جواب درخواست گروهى از يهود كه از پيامبر، اوصاف خداوند را پرسيده بودند، نازل شده است. «قل هو الله‏» نسب نامه خدا است. در مورد اين سوره، امير المؤمنين فرموده است كه: «قل هو الله‏»، نسب نامه خداست. اين سوره بعد از «ناس‏» در اوائل بعثت در مكه نازل شده و 4 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>604</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/604.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>4</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Masad</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Falaq</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/111.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/113.rdf"/>
+	<wtlabprop:order>22</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6222</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/112/4.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

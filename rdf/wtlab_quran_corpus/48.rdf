@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/48.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_فتح"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Fath"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Fath"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/48.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf9-s48.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/048.wma"/>
+	<dbpprop:suraNumber>48</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">26</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">102,103</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Fath Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Fath</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الفتح</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Fatḥ (Arabic: سورة الفتح‎ ) (Victory, Conquest) is the 48th sura of the Qur'an with 29 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheVictory</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>پيروزى</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در آيه اول از پيروزى بزرگى كه به يارى خدا نصيب پيامبر شد، ياد شده است. فتحى كه در «صلح حديبيه‏» فراهم آمد. پيامبر همراه 1400 نفر به جنگ مشركين بيرون آمد. اميدى به بازگشت پيروزمندانه و بسلامت نبود ولى سرانجام با قراردادن آتش بس 10 ساله، بدون درگيرى به مدينه بازگشتند. همين قرارداد، پيروزى‏هاى بزرگ ديگرى بدنبال داشت، مانند فتح خيبر در سال هفتم هجرى و فتح مكه به همراه 12 هزار سرباز مسلمان در سال 8 هجرى و مسلمان شدن تعداد زيادى از مشركين در اين فاصله. (به فتح مكه در آيه 27 اين سوره اشاره شده است) اينهاست آن «فتح مبين‏» كه سوره به آن نام، مشهور گشته است. سوره بيشتر مربوط است به امور داخلى مسلمين در ارتباط با بيعت مردم و سخنان عافيت طلبان و جوسازان و همچنين اشاره به خلق و خوى جاهلى مردم در گذشته و راه مبنى بر تقوا كه پيامبر آورده در آخرين آيه ضمن بيان رسالت محمد، به خصوصيات اصحابش اشاره مى‏كند از جمله به: «اشداء على الكفار رحماء بينهم‏» ياران پيامبر(ص) نسبت به كفار شديد و سخت گيرند اما نسبت به يكديگر مهربان مى‏باشند. اين سوره در سال 6 هجرى در مدينه پس از قرار داد صلح حديبيه نازل شده و داراى 29 آيه مى‏باشد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>511</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/511.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>29</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Muhammad</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Hujuraat</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/47.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/49.rdf"/>
+	<wtlabprop:order>111</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>4</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>4584</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/22.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/23.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/24.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/25.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/26.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/27.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/28.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/48/29.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

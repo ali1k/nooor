@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+	
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/mim.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-derivedAlphabets"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Alphabet"/>
+	<dbpprop:languages rdf:resource="http://dbpedia.org/resource/Persian_language"/>
+	<dbpprop:title>Persian alphabet</dbpprop:title>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/م"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/م"/>
+	<wtlabprop:NameOfAlphabet>mim</wtlabprop:NameOfAlphabet>
+	<wtlabprop:IsolatedShapeOfAlphabet>م</wtlabprop:IsolatedShapeOfAlphabet> 	
+	<wtlabprop:InitialShapeOfAlphabet>مـ</wtlabprop:InitialShapeOfAlphabet> 
+	<wtlabprop:MedialShapeOfAlphabet>ـمـ</wtlabprop:MedialShapeOfAlphabet> 
+	<wtlabprop:FinalShapeOfAlphabet>ـم</wtlabprop:FinalShapeOfAlphabet> 
+	<wtlabprop:NumberOfDotOfAlphabet>0</wtlabprop:NumberOfDotOfAlphabet> 
+	<wtlabprop:IndexInAbjadOfAlphabet>13</wtlabprop:IndexInAbjadOfAlphabet> 
+	<wtlabprop:ValueInAbjadOfAlphabet>40</wtlabprop:ValueInAbjadOfAlphabet>
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/alphabet/persian/mim.html"/>	
+</rdf:Description> 
+</rdf:RDF> 

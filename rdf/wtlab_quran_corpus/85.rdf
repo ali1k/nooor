@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/85.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_بروج"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Buruj"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Burooj"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/85.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s85.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/085.wma"/>
+	<dbpprop:suraNumber>85</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">118</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Burooj Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Burooj</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>البروج</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-Burūj (Arabic: البروج‎ al-burūğ, the stars) is the 85th sura of the Qur'an with 22 ayat. According to Ibn Ishaq, whom most tafsirs follow, the "people of the Ditch" whose persecution it condemns are the Christians of Najran killed by Dhu Nuwas.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheConstellations</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>برج‏ها</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اولين آيه، به آسمانى كه داراى برج‏هاست‏سوگند ياد شده است. برجهاى آسمان، جايگاه و خط سير ستارگان در آسمان است. بعضى هم آن را برجهاى دوازده گانه فلكى دانسته‏اند. و در بعضى احاديث، دوازده برج به دوازده امام تاويل شده است. در اين سوره هشدار و تهديدى است نسبت به كسانى كه مؤمنين را تنها به جرم مؤمن بودن، آزار مى‏دادند و اين را بعنوان آزمايشى از سختيها و مشكلات در پيش پاى مؤمنان در راه ايمان و اعتقاد مى‏داند. داستان «اصحاب اخدود» كه در آتش سوختند - به جرم ايمان - و نيز سپاه فرعون و ثمود، و نمونه‏اى از مؤمنانى كه در راه ايمان، بر شدائد فرعونى صبر و مقاومت كردند بيان شده است تا امت محمد (ص) هم از استقامت آنان، درس صبر بياموزند و نويد پيروزى به مسلمين داده شده است. اين سوره را، سوره پيامبران نيز گفته‏اند. بعد از سوره شمس و در اوائل بعثت در مكه نازل شده و 22 آيه دارد.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>590</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/590.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>22</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Inshiqaaq</dbpprop:previousSura>	
+	<dbpprop:nextSura>At-Taariq</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/84.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/86.rdf"/>
+	<wtlabprop:order>27</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5910</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/11.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/12.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/13.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/14.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/15.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/16.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/17.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/18.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/19.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/20.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/21.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/85/22.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/103.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_عصر"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-'Asr"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Asr"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/103.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s103.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/103.wma"/>
+	<dbpprop:suraNumber>103</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Asr Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Asr</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>العصر</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat al-‘Aṣr (Arabic: سورة العصر‎ ) (The Declining Day, Eventide, The Epoch, Time) is the 103rd sūrah of the Qur’ān. It contains three āyāt, and is believed to be an early Meccan sura (although a few commentators consider it Madinan). Surat al-‘Asr is the second shortest sura, after al-Kawthar. It teaches that all human beings are in loss, except those who have Iman (concept), do righteous deeds and remind others of the Haqq (truth, rights, reality) and remind others of Sabr (patience).</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>TheDecliningDay</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>زمان، بعد از ظهر، فشار، و ...</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اولين آيه، خداوند به عصر قسم ياد كرده است. مفسرين، عصر را به معانى گوناگونى بيان كرده‏اند، از قبيل: عصر نبوت، عصر نزول قرآن، عصر قيامت، عصر دولت مهدى، نماز عصر، روزگار، و معانى ديگر... در جواب اين سه قسم، سوره به بيان خلاصه‏اى از معارف قرآن اشاره مى‏كند و آن عبارت است از: «ايمان‏»، «عمل صالح‏»، «حق‏»، «صبر». در بيانى خلاصه و مختصر، مفاهيم بلند و فراوانى بيان شده است. اين سوره، مكى است و با 3 آيه در سال اول بعثت بعد از سوره انشراح نازل شده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>601</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/601.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>3</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>At-Takaathur</dbpprop:previousSura>	
+	<dbpprop:nextSura>Al-Humaza</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/102.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/104.rdf"/>
+	<wtlabprop:order>13</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6177</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/103/3.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/63.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_منافقون"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Al-Munafiqun"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Munafiqun"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/63.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s63.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/063.wma"/>
+	<dbpprop:suraNumber>63</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">28</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">111</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">Al-Munaafiqoon Sura</rdfs:label>
+	<dbpprop:nameOfSurah>Al-Munaafiqoon</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>المنافقون</dbpprop:arabicName>
+	<dbpprop:abstract>Surat Al-Munāfiqūn (Arabic: سورة المنافقون‎) (The Hypocrites) is the 63rd sura of the Qur'an with 11 ayat.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Medinan"/>
+	<dbpprop:meaningOfTheName>TheHypocrites</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>دو چهره‏ها</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره، به تشريح اخلاق و شيوه‏هاى منافقين و خصوصيتهاى روانى آنان، همچنين توطئه‏ها و دروغپردازى‏هايشان پرداخته و مسلمانان را از آنها بعنوان «دشمنانى سر سخت‏» بر حذر داشته است. اين سوره هم در نماز جمعه خوانده مى‏شود تا در اثر يادآورى نقش منافقانه دشمنان، مسلمين هميشه آگاهى خود را حفظ كنند. سوره درباره عبد الله بن ابى (از سران منافقين) نازل شده است. 11 آيه دارد و در سال 3 هجرى در مدينه نازل شده است. و بعضى گفته‏اند كه اين سوره در يكى از شبهاى جنگ تبوك فرود آمده است.</wtlabprop:persianAbstract>
+	<wtlabprop:startPage>554</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/554.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>11</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Jumu'a</dbpprop:previousSura>	
+	<dbpprop:nextSura>At-Taghaabun</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/62.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/64.rdf"/>
+	<wtlabprop:order>104</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>2</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>5189</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/6.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/7.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/8.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/9.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/10.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/63/11.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 

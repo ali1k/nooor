@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:wtlabprop="http://wtlab.um.ac.ir/quran/ontology#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#">
+<rdf:Description rdf:about="http://wtlab.um.ac.ir/linkdata/quran/114.rdf"> 
+	<rdf:type rdf:resource="http://dbpedia.org/class/yago/Sura106461830"/>   
+	<skos:subject rdf:resource="http://dbpedia.org/resource/Category:Sura"/>
+	<wtlabprop:subject rdf:resource="http://wtlab.um.ac.ir/linkdata/resource/Category:Sura"/>
+	<foaf:page rdf:resource="http://fa.wikipedia.org/wiki/سوره_ناس"/>
+	<foaf:page rdf:resource="http://en.wikipedia.org/wiki/Surat_al-Nas"/>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Al-Nas"/>
+	<wtlabprop:tafseer rdf:resource="http://tafseerenoor.persiangig.com/114.htm"/>
+	<wtlabprop:tafseernoor rdf:resource="http://gharaati.ir/pdf/tafsirnoor/Taf10-s114.rar"/>
+	<wtlabprop:tartilFile rdf:resource="http://www.iqna.ir/Sound/Quran/Tartil/Minshawi/114.wma"/>
+	<dbpprop:suraNumber>114</dbpprop:suraNumber>
+	<dbpprop:juz xml:lang="en">30</dbpprop:juz>
+	<dbpprop:hizbNumber xml:lang="en">120</dbpprop:hizbNumber>
+	<rdfs:label xml:lang="en">An-Naas Sura</rdfs:label>
+	<dbpprop:nameOfSurah>An-Naas</dbpprop:nameOfSurah>
+	<dbpprop:arabicName>الناس</dbpprop:arabicName>
+	<dbpprop:abstract>Sūrat Al-Nās (Arabic: سورة الناس‎), or Mankind, is the 114th and last sura, or chapter, of the Qur'an, the Muslim holy book. It is a short six-verse invocation, asking Allah for protection from the Satan. It is a Makkan sura. Together with sura Al-Falaq it is also known as Al-Mu'awwidhatayn; dealing with roughly the same theme, they form a natural pair. There is a Sunnah tradition of reading this Sura over the sick or before sleeping.</dbpprop:abstract>
+	<dbpprop:classification rdf:resource="Meccan"/>
+	<dbpprop:meaningOfTheName>Mankind</dbpprop:meaningOfTheName>
+	<wtlabprop:persianMeaningOfTheName>مردم</wtlabprop:persianMeaningOfTheName>
+	<wtlabprop:persianAbstract>در اين سوره هم مثل سوره قبلى، خداوند به پيامبر فرمان داده كه به پروردگار مردم، فرمانرواى مردم و معبود مردم، از شر وسوسه گران از جن و انس پناه ببرد. اين سوره و سوره فلق را، «معوذتين‏» هم گفته‏اند. زيرا كه در آغاز هر دو، مسئله تعويذ و پناه بردن به خدا از شرور حسودان و افسونگران و جادوگران مطرح شده كه دشمنان از طريق جادو و افسون قصد صدمه رساندن به پيامبر را داشتند. بعضى هم اين دو سوره را از سوره‏هاى مدنى دانسته‏اند كه با هم نازل گشته‏اند. سوره «ناس‏» بعد از سوره «فلق‏» و قبل از «قل هو اللّه‏» نازل شده و 6 آيه دارد. با آرزو و اميد اينكه با شناخت بهتر و بيشتر قرآن و عمل كردن به اين كتاب آسمانى سعادت و فلاح را بدست آوريم، با نقل چند بيت از اشعار «اقبال لاهورى‏»اين نوشته را به پايان مى‏بريم: نقش قرآن چون كه بر عالم نشست نقشهاى پاپ و كاهن را شكست فاش گويم آنچه در دل مضمر است اين كتابى نيست، چيزى ديگر است چون كه در جان رفت جان ديگر شود جان چو ديگر شد، جهان ديگر شود. </wtlabprop:persianAbstract>
+	<wtlabprop:startPage>604</wtlabprop:startPage>
+	<wtlabprop:pageURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/page/604.rdf"/> 
+	<wtlabprop:harfEMukatta>No</wtlabprop:harfEMukatta>	
+	<dbpprop:numberOfSajdahs>0</dbpprop:numberOfSajdahs>
+	<wtlabprop:numberOfSajdahsVajeb>0</wtlabprop:numberOfSajdahsVajeb>   
+	<dbpprop:numberOfVerses>6</dbpprop:numberOfVerses>
+	<dbpprop:previousSura>Al-Falaq</dbpprop:previousSura>	
+	<dbpprop:nextSura>-</dbpprop:nextSura> 
+	<wtlabprop:previousSuraURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/113.rdf"/>
+	<wtlabprop:nextSuraURI rdf:resource="null"/>
+	<wtlabprop:order>21</wtlabprop:order> 	
+	<dbpprop:numberOfRukus>1</dbpprop:numberOfRukus> 
+	<wtlabprop:startAyah>6231</wtlabprop:startAyah> 
+	<foaf:page rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114.html"/>
+	<wtlabprop:ayah>
+		<rdf:Bag>
+			<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/1.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/2.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/3.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/4.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/5.rdf"/>
+		<wtlabprop:AyahURI rdf:resource="http://wtlab.um.ac.ir/linkdata/quran/114/6.rdf"/>
+		</rdf:Bag>
+	</wtlabprop:ayah>
+</rdf:Description> 
+</rdf:RDF> 
